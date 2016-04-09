@@ -19,6 +19,11 @@
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
+
+/** Changing the site URL for WordPress */
+define('WP_HOME','http://localhost/blog');
+define('WP_SITEURL','http://localhost/blog');
+
 /** The name of the database for WordPress */
 define('DB_NAME', 'servital_blog');
 
@@ -94,6 +99,7 @@ $table_prefix  = 'wp_';
 define('WP_DEBUG', false);
 
 /* That's all, stop editing! Happy blogging. */
+/*define('RELOCATE',true);*/
 
 /** Absolute path to the WordPress directory. */
 if ( !defined('ABSPATH') )
