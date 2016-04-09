@@ -1,0 +1,91 @@
+/** 
+* Fix for Main navigation
+*/
+
+#main-nav .main-menu > ul > li,
+.radio-button,
+.checkbox-button,
+.select-form {
+	*display: inline !important;
+	zoom: 1;
+}
+
+#main-nav .main-menu > ul li ul li {
+	*float: left;
+}
+
+/** 
+* Fix for Sidebar search widget
+*/
+
+#sidebar .widget .searchform input[type="submit"] {
+	*top: 1px;
+}
+
+/** 
+* Fix for standart form elements
+*/
+
+input[type="text"],
+input[type="password"],
+input[type="submit"],
+input[type="reset"],
+textarea,
+button,
+.select-button,
+.select-button-list,
+.input-file-form,
+.input-file-button {
+	behavior: url( '/wp-content/themes/blogotron/js/PIE.htc' );
+}
+
+input[type="submit"],
+input[type="reset"] {
+	*min-width: auto !important;
+}
+
+/** 
+* Fix for custom input[type="file"]
+*/
+
+.input-file {
+	filter: alpha(opacity=0);
+}
+
+#content .input-file-name,
+#sidebar .input-file-name {
+	word-wrap: normal;
+}
+
+/** 
+* Fix for custom select
+*/
+
+.select-form {
+	*width: 222px !important;
+	user-select: none;
+}
+
+.select-list {
+	*width: 220px;
+}
+
+.select-button-text,
+.select-list-option-text {
+	word-wrap: normal;
+}
+
+/** 
+* Fix for posts form password protected
+*/
+
+#content .post-password-required form {
+	*position: relative;
+	*margin: 0 0 27px;
+}
+
+#content .post-password-required input[type="password"],
+#content .post-password-required input[type="submit"] {
+	*position: relative;
+	*margin: 0 0 -14px;
+}

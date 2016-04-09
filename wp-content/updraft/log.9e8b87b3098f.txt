@@ -1,0 +1,392 @@
+0000.034 (0) Opened log file at time: Wed, 06 Apr 2016 04:47:33 +0000 on http://servitalleres.com/blog
+0000.037 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.2 WP: 4.4.2 PHP: 5.5.31 (Linux r3-chicago.webserversystems.com 3.14.25-grsec.3.el5 #1 SMP Mon Jan 5 14:23:02 GMT 2015 x86_64) MySQL: 5.5.40 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.7M | 31.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.716 (0) Free space on disk containing Updraft's temporary directory: 334489.9 MB / Free disk space in account: 533.7 MB (46.6 % used)
+0000.741 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.743 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.842 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1459313000, seconds_ago=605054)
+0000.845 (0) Semaphore (fd) was stuck, set lock time to 2016-04-06 04:47:34
+0000.847 (0) Semaphore (fd) reset to 1
+0000.849 (0) Set semaphore last lock (fd) time to 2016-04-06 04:47:34
+0000.850 (0) Semaphore lock (fd) complete
+0000.878 (0) Backup run: resumption=0, nonce=9e8b87b3098f, begun at=1459918053 (1s ago), job type=backup
+0000.881 (0) Scheduling a resumption (1) after 300 seconds (1459918354) in case this run gets aborted
+0000.966 (0) Checking if we have a zip executable available
+0000.969 (0) Testing: /usr/bin/zip
+0001.036 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0001.039 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0001.040 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=128) (out=105) (deflated 18%)
+0001.042 (0) Output: total bytes=128, compressed=105 -> 18% savings
+0001.049 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=135) (out=111) (deflated 18%)
+0001.051 (0) Output: total bytes=263, compressed=216 -> 18% savings
+0001.053 (0) Stderr output: 
+0001.054 (0) Stderr output: 
+0001.055 (0) Stderr output: 
+0001.174 (0) Working binary zip found: /usr/bin/zip
+0001.178 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0001.180 (0) Creation of backups of directories: beginning
+0001.185 (0) Beginning creation of dump of plugins (split every: 25 MB)
+0001.367 (0) Free disk space in account: 533.7 MB (46.6 % used)
+0009.487 (0) Total entities for the zip file: 825 directories, 4965 files (0 skipped as non-modified), 73.1 MB
+0009.490 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 2.0 seconds have passed since the last write (0.3 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0009.615 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: size is now: 0.50 MB
+0009.621 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 100 files added (on-disk size: 476.5 KB)
+0009.628 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 200 files added (on-disk size: 476.5 KB)
+0009.632 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 300 files added (on-disk size: 476.5 KB)
+0009.636 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 400 files added (on-disk size: 476.5 KB)
+0009.640 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 500 files added (on-disk size: 476.5 KB)
+0009.642 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8 MB, 4965 files batched, 501 (502) added so far); re-opening (prior size: 476.5 KB)
+0011.278 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: size is now: 5.40 MB
+0011.291 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 600 files added (on-disk size: 5503.9 KB)
+0011.296 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 700 files added (on-disk size: 5503.9 KB)
+0011.300 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 800 files added (on-disk size: 5503.9 KB)
+0011.304 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 900 files added (on-disk size: 5503.9 KB)
+0011.308 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1000 files added (on-disk size: 5503.9 KB)
+0011.310 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.6 MB, 4965 files batched, 501 (1003) added so far); re-opening (prior size: 5503.9 KB)
+0012.733 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: size is now: 8.60 MB
+0012.744 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1100 files added (on-disk size: 8845 KB)
+0012.748 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1200 files added (on-disk size: 8845 KB)
+0012.752 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1300 files added (on-disk size: 8845 KB)
+0012.760 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1400 files added (on-disk size: 8845 KB)
+0012.765 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1500 files added (on-disk size: 8845 KB)
+0012.766 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.8 MB, 4965 files batched, 501 (1504) added so far); re-opening (prior size: 8845 KB)
+0015.192 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: size is now: 10.40 MB
+0015.204 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1600 files added (on-disk size: 10671.2 KB)
+0015.208 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1700 files added (on-disk size: 10671.2 KB)
+0015.212 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1800 files added (on-disk size: 10671.2 KB)
+0015.216 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 1900 files added (on-disk size: 10671.2 KB)
+0015.220 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2000 files added (on-disk size: 10671.2 KB)
+0015.222 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.7 MB, 4965 files batched, 501 (2005) added so far); re-opening (prior size: 10671.2 KB)
+0016.998 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2100 files added (on-disk size: 11370.8 KB)
+0017.005 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2200 files added (on-disk size: 11370.8 KB)
+0017.012 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2300 files added (on-disk size: 11370.8 KB)
+0017.019 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2400 files added (on-disk size: 11370.8 KB)
+0017.026 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2500 files added (on-disk size: 11370.8 KB)
+0017.030 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (19.9 MB, 4965 files batched, 501 (2506) added so far); re-opening (prior size: 11370.8 KB)
+0022.066 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: size is now: 17.60 MB
+0022.105 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2600 files added (on-disk size: 17995.8 KB)
+0022.109 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2700 files added (on-disk size: 17995.8 KB)
+0022.114 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2800 files added (on-disk size: 17995.8 KB)
+0022.118 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 2900 files added (on-disk size: 17995.8 KB)
+0022.126 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 3000 files added (on-disk size: 17995.8 KB)
+0022.129 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (8.1 MB, 4965 files batched, 501 (3007) added so far); re-opening (prior size: 17995.8 KB)
+0024.802 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: size is now: 22.00 MB
+0024.818 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 3100 files added (on-disk size: 22553.5 KB)
+0024.822 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 3200 files added (on-disk size: 22553.5 KB)
+0024.826 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 3300 files added (on-disk size: 22553.5 KB)
+0024.830 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip.tmp: 3400 files added (on-disk size: 22553.5 KB)
+0024.834 (0) Adding batch to zip file (UpdraftPlus_BinZip): possibly approaching split limit (5 MB, 489 (3496) files added so far); last ratio: 0.5484; re-opening (prior size: 22553.5 KB)
+0026.895 (0) Zip size is at/near split limit (24.6 MB / 25 MB) - bumping index (from: 0)
+0027.046 (0) Created plugins zip (0) - 25208.2 KB in 25.5 s (987.5 KB/s) (SHA1 checksum: 1cf3c9f2e9e118d7c88bbb3dc338d2ecdd6080c3)
+0027.050 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0027.054 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0027.058 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0027.062 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0027.066 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0027.070 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.5 MB, 4965 files batched, 501 (3997) added so far); re-opening (prior size: 0 KB)
+0029.643 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: size is now: 3.00 MB
+0029.656 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4000 files added (on-disk size: 3075.8 KB)
+0029.661 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4100 files added (on-disk size: 3075.8 KB)
+0029.665 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4200 files added (on-disk size: 3075.8 KB)
+0029.669 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4300 files added (on-disk size: 3075.8 KB)
+0029.672 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4400 files added (on-disk size: 3075.8 KB)
+0029.676 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.5 MB, 4965 files batched, 501 (4498) added so far); re-opening (prior size: 3075.8 KB)
+0031.495 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: size is now: 6.70 MB
+0031.507 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4500 files added (on-disk size: 6897.1 KB)
+0031.511 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4600 files added (on-disk size: 6897.1 KB)
+0031.515 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4700 files added (on-disk size: 6897.1 KB)
+0031.519 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4800 files added (on-disk size: 6897.1 KB)
+0031.523 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: 4900 files added (on-disk size: 6897.1 KB)
+0033.351 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip.tmp: size is now: 9.10 MB
+0033.419 (0) Created plugins zip (1) - 9342.5 KB in 6.4 s (1466.4 KB/s) (SHA1 checksum: a39c04aff8648b4ebddca93a1764b0c630045de8)
+0033.424 (0) Beginning creation of dump of themes (split every: 25 MB)
+0033.576 (0) Free disk space in account: 533.7 MB (46.6 % used)
+0034.091 (0) Total entities for the zip file: 57 directories, 448 files (0 skipped as non-modified), 13.5 MB
+0034.096 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.102 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0034.108 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0034.113 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0039.301 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip.tmp: size is now: 6.40 MB
+0039.344 (0) Created themes zip (0) - 6535.2 KB in 5.8 s (1133.5 KB/s) (SHA1 checksum: aba92e75667457fd2a6a4fe602e2ad0a4c4b6b6c)
+0039.349 (0) Exclusion option setting (uploads): 
+0039.351 (0) Looking for candidates to back up in: /home/servital/public_html/blog/wp-content/uploads
+0039.367 (0) finding files: 2015: adding to list (1)
+0039.368 (0) finding files: calls-to-action: adding to list (2)
+0039.370 (0) finding files: 2016: adding to list (3)
+0039.372 (0) finding files: landing-pages: adding to list (4)
+0039.374 (0) Beginning creation of dump of uploads (split every: 25 MB)
+0039.491 (0) Free disk space in account: 533.7 MB (46.6 % used)
+0039.690 (0) Total entities for the zip file: 16 directories, 104 files (0 skipped as non-modified), 10 MB
+0039.698 (0) Zip: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0040.722 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip.tmp: size is now: 10.00 MB
+0040.777 (0) Created uploads zip (0) - 10256.1 KB in 1.3 s (8000.1 KB/s) (SHA1 checksum: afbfe3218efaa1df3594f024bf9a60ecd94e00af)
+0040.782 (0) Beginning backup of other directories found in the content directory (index: 0)
+0040.784 (0) Exclusion option setting (others): 
+0040.786 (0) Looking for candidates to back up in: /home/servital/public_html/blog/wp-content
+0040.787 (0) finding files: languages: adding to list (1)
+0040.789 (0) finding files: index.php: adding to list (2)
+0040.791 (0) finding files: updraft: skipping: this is the updraft directory
+0040.793 (0) finding files: uploads: skipping: this is the uploads directory
+0040.796 (0) finding files: upgrade: adding to list (3)
+0040.798 (0) finding files: themes: skipping: this is the themes directory
+0040.800 (0) finding files: plugins: skipping: this is the plugins directory
+0040.916 (0) Free disk space in account: 533.7 MB (46.6 % used)
+0041.014 (0) Total entities for the zip file: 3 directories, 17 files (0 skipped as non-modified), 1.4 MB
+0041.211 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip.tmp: size is now: 0.40 MB
+0041.220 (0) Created others zip (0) - 420.1 KB in 0.3 s (1397.8 KB/s) (SHA1 checksum: f996ed3d2aac299b5610b5f83fc7457099f92b6f)
+0041.228 (0) Saving backup status to database (elements: 9)
+0041.232 (0) Beginning creation of database dump (WordPress DB)
+0041.236 (0) Testing: /usr/bin/mysqldump
+0041.317 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0041.462 (0) Table wp_options: Total expected rows (approximate): 305
+0041.492 (0) Table wp_options: Total rows added: 376 in 0.03 seconds
+0041.494 (0) Table wp_options: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_options.table.gz - 56 KB)
+0041.513 (0) Table wp_users: Total expected rows (approximate): 1
+0041.517 (0) Table wp_users: Total rows added: 1 in 0.00 seconds
+0041.522 (0) Table wp_users: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_users.table.gz - 0.5 KB)
+0041.531 (0) Table wp_usermeta: Total expected rows (approximate): 36
+0041.535 (0) Table wp_usermeta: Total rows added: 36 in 0.00 seconds
+0041.537 (0) Table wp_usermeta: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_usermeta.table.gz - 1.2 KB)
+0041.548 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0041.562 (0) Table wp_commentmeta: Total rows added: 0 in 0.01 seconds
+0041.564 (0) Table wp_commentmeta: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0041.583 (0) Table wp_comments: Total expected rows (approximate): 0
+0041.588 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0041.590 (0) Table wp_comments: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_comments.table.gz - 0.5 KB)
+0041.601 (0) Table wp_links: Total expected rows (approximate): 0
+0041.618 (0) Table wp_links: Total rows added: 0 in 0.01 seconds
+0041.621 (0) Table wp_links: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_links.table.gz - 0.4 KB)
+0041.636 (0) Table wp_postmeta: Total expected rows (approximate): 400
+0041.648 (0) Table wp_postmeta: Total rows added: 341 in 0.01 seconds
+0041.651 (0) Table wp_postmeta: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_postmeta.table.gz - 10.5 KB)
+0041.666 (0) Table wp_posts: Total expected rows (approximate): 179
+0041.721 (0) Table wp_posts: Total rows added: 117 in 0.05 seconds
+0041.724 (0) Table wp_posts: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_posts.table.gz - 44.1 KB)
+0041.741 (0) Table wp_term_relationships: Total expected rows (approximate): 17
+0041.746 (0) Table wp_term_relationships: Total rows added: 17 in 0.00 seconds
+0041.751 (0) Table wp_term_relationships: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0041.764 (0) Table wp_term_taxonomy: Total expected rows (approximate): 22
+0041.768 (0) Table wp_term_taxonomy: Total rows added: 22 in 0.00 seconds
+0041.770 (0) Table wp_term_taxonomy: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0041.781 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0041.786 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0041.789 (0) Table wp_termmeta: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_termmeta.table.gz - 0.4 KB)
+0041.800 (0) Table wp_terms: Total expected rows (approximate): 22
+0041.805 (0) Table wp_terms: Total rows added: 22 in 0.00 seconds
+0041.808 (0) Table wp_terms: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_terms.table.gz - 0.7 KB)
+0041.814 (0) Skipping table (lacks our prefix (wp_)): oepl_crm_map_fields
+0041.817 (0) Skipping table (lacks our prefix (wp_)): wp85s_commentmeta
+0041.820 (0) Skipping table (lacks our prefix (wp_)): wp85s_comments
+0041.822 (0) Skipping table (lacks our prefix (wp_)): wp85s_inbound_events
+0041.825 (0) Skipping table (lacks our prefix (wp_)): wp85s_inbound_tracked_links
+0041.828 (0) Skipping table (lacks our prefix (wp_)): wp85s_links
+0041.831 (0) Skipping table (lacks our prefix (wp_)): wp85s_options
+0041.833 (0) Skipping table (lacks our prefix (wp_)): wp85s_postmeta
+0041.834 (0) Skipping table (lacks our prefix (wp_)): wp85s_posts
+0041.836 (0) Skipping table (lacks our prefix (wp_)): wp85s_term_relationships
+0041.838 (0) Skipping table (lacks our prefix (wp_)): wp85s_term_taxonomy
+0041.840 (0) Skipping table (lacks our prefix (wp_)): wp85s_termmeta
+0041.841 (0) Skipping table (lacks our prefix (wp_)): wp85s_terms
+0041.843 (0) Skipping table (lacks our prefix (wp_)): wp85s_usermeta
+0041.845 (0) Skipping table (lacks our prefix (wp_)): wp85s_users
+0041.850 (0) Table wp_inbound_events: Total expected rows (approximate): 2
+0041.856 (0) Table wp_inbound_events: Total rows added: 2 in 0.00 seconds
+0041.858 (0) Table wp_inbound_events: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_inbound_events.table.gz - 2.4 KB)
+0041.867 (0) Table wp_inbound_tracked_links: Total expected rows (approximate): 120
+0041.877 (0) Table wp_inbound_tracked_links: Total rows added: 121 in 0.01 seconds
+0041.879 (0) Table wp_inbound_tracked_links: finishing file (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_inbound_tracked_links.table.gz - 2.6 KB)
+0041.886 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_options.table.gz (1/29): adding to final database dump
+0041.906 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_users.table.gz (2/29): adding to final database dump
+0041.909 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_usermeta.table.gz (3/29): adding to final database dump
+0041.911 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_commentmeta.table.gz (4/29): adding to final database dump
+0041.913 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_comments.table.gz (5/29): adding to final database dump
+0041.915 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_links.table.gz (6/29): adding to final database dump
+0041.917 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_postmeta.table.gz (7/29): adding to final database dump
+0041.924 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_posts.table.gz (8/29): adding to final database dump
+0041.946 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_term_relationships.table.gz (9/29): adding to final database dump
+0041.948 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_term_taxonomy.table.gz (10/29): adding to final database dump
+0041.950 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_termmeta.table.gz (11/29): adding to final database dump
+0041.952 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_terms.table.gz (12/29): adding to final database dump
+0041.955 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_inbound_events.table.gz (13/29): adding to final database dump
+0041.957 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db-table-wp_inbound_tracked_links.table.gz (14/29): adding to final database dump
+0041.961 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz: finished writing out complete database file (96 KB)
+0041.968 (0) Total database tables backed up: 14 (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz, size: 120600, checksum (SHA1): 116cbfff44873cbf2bf8592a78465ac3e63372d5)
+0041.978 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0041.979 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip: plugins: This file has not yet been successfully uploaded: will queue
+0041.981 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0041.983 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0041.984 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip: others: This file has not yet been successfully uploaded: will queue
+0041.986 (0) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0041.988 (0) Saving backup history. Total backup size: 50.7 MB
+0041.992 (0) Requesting upload of the files that have not yet been successfully uploaded (6)
+0041.999 (0) Cloud backup selection (1/1): dropbox (last)
+0042.001 (0) Beginning dispatch of backup to remote (dropbox)
+0042.002 (0) Dropbox: begin cloud upload
+0042.010 (0) Dropbox: access gained
+0042.443 (0) Dropbox quota usage: normal=2611.2 MB, shared=1890.8 MB, total=8064 MB, available=3562 MB
+0042.449 (0) Dropbox: Attempt to upload: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip to: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip
+0043.285 (0) Dropbox chunked upload: 4.1 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 1048576)
+0044.402 (0) Dropbox chunked upload: 8.1 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 2097152)
+0045.880 (0) Dropbox chunked upload: 12.2 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 3145728)
+0047.665 (0) Dropbox chunked upload: 16.2 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 4194304)
+0048.912 (0) Dropbox chunked upload: 20.3 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 5242880)
+0050.479 (0) Dropbox chunked upload: 24.4 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 6291456)
+0051.885 (0) Dropbox chunked upload: 28.4 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 7340032)
+0053.778 (0) Dropbox chunked upload: 32.5 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 8388608)
+0054.803 (0) Dropbox chunked upload: 36.6 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 9437184)
+0055.811 (0) Dropbox chunked upload: 40.6 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 10485760)
+0056.953 (0) Dropbox chunked upload: 44.7 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 11534336)
+0059.242 (0) Dropbox chunked upload: 48.7 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 12582912)
+0060.155 (0) Dropbox chunked upload: 52.8 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 13631488)
+0061.254 (0) Dropbox chunked upload: 56.9 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 14680064)
+0062.855 (0) Dropbox chunked upload: 60.9 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 15728640)
+0347.914 (1) Opened log file at time: Wed, 06 Apr 2016 04:53:21 +0000 on http://servitalleres.com/blog
+0347.917 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.2 WP: 4.4.2 PHP: 5.5.31 (Linux r3-chicago.webserversystems.com 3.14.25-grsec.3.el5 #1 SMP Mon Jan 5 14:23:02 GMT 2015 x86_64) MySQL: 5.5.40 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 30.9M | 31.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0348.032 (1) Free space on disk containing Updraft's temporary directory: 334233 MB / Free disk space in account: 482.9 MB (51.7 % used)
+0348.038 (1) Backup run: resumption=1, nonce=9e8b87b3098f, begun at=1459918053 (348s ago), job type=backup, previous check-in=62.8s
+0348.041 (1) Scheduling a resumption (2) after 300 seconds (1459918701) in case this run gets aborted
+0348.053 (1) Checking if we have a zip executable available
+0348.054 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0348.056 (1) Creation of backups of directories: already finished
+0348.058 (1) Saving backup status to database (elements: 9)
+0348.061 (1) Database dump (WordPress DB): Creation was completed already
+0348.068 (1) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0348.069 (1) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip: plugins: This file has not yet been successfully uploaded: will queue
+0348.071 (1) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0348.072 (1) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0348.074 (1) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip: others: This file has not yet been successfully uploaded: will queue
+0348.075 (1) backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0348.077 (1) Saving backup history. Total backup size: 50.7 MB
+0348.081 (1) Requesting upload of the files that have not yet been successfully uploaded (6)
+0348.082 (1) Cloud backup selection (1/1): dropbox (last)
+0348.085 (1) Beginning dispatch of backup to remote (dropbox)
+0348.087 (1) Dropbox: begin cloud upload
+0348.092 (1) Dropbox: access gained
+0348.491 (1) Dropbox quota usage: normal=2611.2 MB, shared=1890.8 MB, total=8064 MB, available=3562 MB
+0348.494 (1) This is a resumption: 15728640 bytes had already been uploaded
+0348.497 (1) Dropbox: Attempt to upload: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip to: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip
+0349.045 (1) Dropbox chunked upload exception (Dropbox_BadRequestException): Submitted input out of alignment: got [15728640] expected [16777216] (line: 169, file: /home/servital/public_html/blog/wp-content/plugins/updraftplus/includes/Dropbox/OAuth/Consumer/Curl.php)
+0349.049 (1) Dropbox not yet aligned: tried=15728640, wanted=16777216; will attempt recovery
+0350.175 (1) Dropbox chunked upload: 69.1 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 17825792)
+0351.236 (1) Dropbox chunked upload: 73.1 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 18874368)
+0352.486 (1) Dropbox chunked upload: 77.2 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 19922944)
+0354.225 (1) Dropbox chunked upload: 81.2 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 20971520)
+0355.118 (1) Dropbox chunked upload: 85.3 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 22020096)
+0356.213 (1) Dropbox chunked upload: 89.4 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 23068672)
+0357.405 (1) Dropbox chunked upload: 93.4 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 24117248)
+0359.252 (1) Dropbox chunked upload: 97.5 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 25165824)
+0359.941 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEcrqR5ktF9ogNQ, 25813176)
+0361.100 (1) Recording as successfully uploaded: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip (78048be0e01cbd5d59285968739bd547)
+0361.111 (1) Deleting local file: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip: skipped: user has unchecked updraft_delete_local option
+0361.117 (1) Dropbox: File upload success (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins.zip): 25208 KB in 12s (1997 KB/s)
+0361.545 (1) Dropbox quota usage: normal=2635.8 MB, shared=1890.8 MB, total=8064 MB, available=3537.4 MB
+0361.547 (1) Dropbox: Attempt to upload: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip to: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip
+0362.398 (1) Dropbox chunked upload: 11 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 1048576)
+0363.366 (1) Dropbox chunked upload: 21.9 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 2097152)
+0364.699 (1) Dropbox chunked upload: 32.9 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 3145728)
+0366.538 (1) Dropbox chunked upload: 43.8 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 4194304)
+0367.581 (1) Dropbox chunked upload: 54.8 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 5242880)
+0368.699 (1) Dropbox chunked upload: 65.8 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 6291456)
+0370.936 (1) Dropbox chunked upload: 76.7 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 7340032)
+0372.788 (1) Dropbox chunked upload: 87.7 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 8388608)
+0373.631 (1) Dropbox chunked upload: 98.6 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 9437184)
+0374.480 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEcu5ZbpjlvRMlA, 9566669)
+0375.729 (1) Recording as successfully uploaded: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip (f78b75c1fdbd1e8ed3b3c4e916ac2706)
+0375.744 (1) Deleting local file: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip: skipped: user has unchecked updraft_delete_local option
+0375.747 (1) Dropbox: File upload success (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-plugins2.zip): 9342 KB in 14s (657 KB/s)
+0376.109 (1) Dropbox quota usage: normal=2644.9 MB, shared=1890.8 MB, total=8064 MB, available=3528.3 MB
+0376.113 (1) Dropbox: Attempt to upload: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip to: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip
+0376.984 (1) Dropbox chunked upload: 15.7 % uploaded (AAAAAAAAEcxfC6Mxyx2BiA, 1048576)
+0378.118 (1) Dropbox chunked upload: 31.3 % uploaded (AAAAAAAAEcxfC6Mxyx2BiA, 2097152)
+0379.433 (1) Dropbox chunked upload: 47 % uploaded (AAAAAAAAEcxfC6Mxyx2BiA, 3145728)
+0381.387 (1) Dropbox chunked upload: 62.7 % uploaded (AAAAAAAAEcxfC6Mxyx2BiA, 4194304)
+0382.400 (1) Dropbox chunked upload: 78.3 % uploaded (AAAAAAAAEcxfC6Mxyx2BiA, 5242880)
+0384.082 (1) Dropbox chunked upload: 94 % uploaded (AAAAAAAAEcxfC6Mxyx2BiA, 6291456)
+0385.181 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEcxfC6Mxyx2BiA, 6692081)
+0386.791 (1) Recording as successfully uploaded: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip (30674de090ec299d40bec1f142ac928c)
+0386.802 (1) Deleting local file: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip: skipped: user has unchecked updraft_delete_local option
+0386.805 (1) Dropbox: File upload success (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-themes.zip): 6535 KB in 10s (611 KB/s)
+0387.174 (1) Dropbox quota usage: normal=2651.3 MB, shared=1890.8 MB, total=8064 MB, available=3521.9 MB
+0387.176 (1) Dropbox: Attempt to upload: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip to: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip
+0389.001 (1) Dropbox chunked upload: 10 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 1048576)
+0390.080 (1) Dropbox chunked upload: 20 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 2097152)
+0391.388 (1) Dropbox chunked upload: 30 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 3145728)
+0393.188 (1) Dropbox chunked upload: 39.9 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 4194304)
+0394.594 (1) Dropbox chunked upload: 49.9 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 5242880)
+0395.858 (1) Dropbox chunked upload: 59.9 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 6291456)
+0397.473 (1) Dropbox chunked upload: 69.9 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 7340032)
+0399.226 (1) Dropbox chunked upload: 79.9 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 8388608)
+0400.309 (1) Dropbox chunked upload: 89.9 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 9437184)
+0401.481 (1) Dropbox chunked upload: 99.8 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 10485760)
+0402.361 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEc3gfdarUBnLUA, 10502267)
+0403.836 (1) Recording as successfully uploaded: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip (ba7fdd8dafd5b9f8a56ecccffcf61645)
+0403.845 (1) Deleting local file: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip: skipped: user has unchecked updraft_delete_local option
+0403.847 (1) Dropbox: File upload success (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-uploads.zip): 10256 KB in 16s (615 KB/s)
+0404.207 (1) Dropbox quota usage: normal=2661.3 MB, shared=1890.8 MB, total=8064 MB, available=3511.9 MB
+0404.209 (1) Dropbox: Attempt to upload: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip to: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip
+0404.921 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEc6OpLEFhIdcCw, 430153)
+0405.856 (1) Recording as successfully uploaded: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip (7e3508db4e3507dcf4853cfbdea5cec7)
+0405.862 (1) Deleting local file: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip: skipped: user has unchecked updraft_delete_local option
+0405.864 (1) Dropbox: File upload success (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-others.zip): 420 KB in 1s (253 KB/s)
+0406.242 (1) Dropbox quota usage: normal=2661.8 MB, shared=1890.8 MB, total=8064 MB, available=3511.5 MB
+0406.245 (1) Dropbox: Attempt to upload: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz to: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz
+0407.052 (1) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEc_6dGGq_82Pkw, 120600)
+0407.926 (1) Recording as successfully uploaded: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz (d8ee2773d190144bfeeeeb1380122818)
+0407.935 (1) Deleting local file: backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz: skipped: user has unchecked updraft_delete_local option
+0407.938 (1) Dropbox: File upload success (backup_2016-04-05-2347_Blog_Servitalleres_9e8b87b3098f-db.gz): 117 KB in 1s (69 KB/s)
+0407.944 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0407.946 (1) Number of backup sets in history: 3; groups (db): 1
+0407.948 (1) Examining (for databases) backup set with group_id=0, nonce=9e8b87b3098f, datestamp=1459918053 (Apr 06 2016 04:47:33)
+0407.950 (1) This backup set is the backup set just made, so will not be deleted.
+0407.952 (1) Examining (for databases) backup set with group_id=0, nonce=40f62925687d, datestamp=1459313000 (Mar 30 2016 04:43:20)
+0407.953 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0407.955 (1) Examining (for databases) backup set with group_id=0, nonce=b33e19217576, datestamp=1458708112 (Mar 23 2016 04:41:52)
+0407.956 (1) 1458708112: db: this set includes a database (backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-db.gz); db count is now 2
+0407.958 (1) 1458708112: db: over retain limit (2); will delete this database
+0407.959 (1) Delete file: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-db.gz, service=dropbox
+0407.961 (1) Deleting local copy (backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-db.gz)
+0407.984 (1) Dropbox: request deletion: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-db.gz
+0408.543 (1) Dropbox: delete succeeded
+0408.550 (1) This backup set remains non-empty (f=1/d=0); will retain in history
+0408.552 (1) Number of backup sets in history: 3; groups (files): 1
+0408.553 (1) Examining (for files) backup set with nonce=9e8b87b3098f, datestamp=1459918053 (Apr 06 2016 04:47:33)
+0408.555 (1) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0408.556 (1) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0408.557 (1) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0408.557 (1) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0408.557 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0408.559 (1) Examining (for files) backup set with nonce=40f62925687d, datestamp=1459313000 (Mar 30 2016 04:43:20)
+0408.560 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0408.562 (1) Examining (for files) backup set with nonce=b33e19217576, datestamp=1458708112 (Mar 23 2016 04:41:52)
+0408.566 (1) plugins: over retain limit (2); will delete this file entity
+0408.568 (1) themes: over retain limit (2); will delete this file entity
+0408.571 (1) uploads: over retain limit (2); will delete this file entity
+0408.574 (1) others: over retain limit (2); will delete this file entity
+0408.576 (1) Delete file: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-plugins.zip, service=dropbox
+0408.577 (1) Deleting local copy (backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-plugins.zip)
+0408.653 (1) Delete file: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-plugins2.zip, service=dropbox
+0408.655 (1) Deleting local copy (backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-plugins2.zip)
+0408.673 (1) Delete file: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-themes.zip, service=dropbox
+0408.675 (1) Deleting local copy (backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-themes.zip)
+0408.692 (1) Delete file: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-uploads.zip, service=dropbox
+0408.694 (1) Deleting local copy (backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-uploads.zip)
+0408.705 (1) Delete file: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-others.zip, service=dropbox
+0408.707 (1) Deleting local copy (backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-others.zip)
+0408.714 (1) Dropbox: request deletion: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-plugins.zip
+0409.252 (1) Dropbox: delete succeeded
+0409.255 (1) Dropbox: request deletion: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-plugins2.zip
+0409.798 (1) Dropbox: delete succeeded
+0409.802 (1) Dropbox: request deletion: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-themes.zip
+0410.367 (1) Dropbox: delete succeeded
+0410.370 (1) Dropbox: request deletion: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-uploads.zip
+0410.876 (1) Dropbox: delete succeeded
+0410.884 (1) Dropbox: request deletion: backup_2016-03-22-2341_Blog_Servitalleres_b33e19217576-others.zip
+0411.476 (1) Dropbox: delete succeeded
+0411.484 (1) This backup set is now empty; will remove from history
+0411.487 (1) Deleting log file (log.b33e19217576.txt)
+0411.489 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0411.500 (1) Resume backup (9e8b87b3098f, 1): finish run
+0411.505 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0411.529 (1) Fetching RSS news feed
+0411.840 (1) Fetched RSS news feed; result is a: SimplePie
+0411.844 (1) Sending email ('Files and database (Full backup)') report (attachments: 0, size: 0 KB) to: conta...
+0416.761 (1) The backup apparently succeeded and is now complete

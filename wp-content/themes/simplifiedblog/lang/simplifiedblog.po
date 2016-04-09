@@ -1,0 +1,375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-30 12:49+0100\n"
+"PO-Revision-Date: 2016-01-30 12:49+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: plurals=2; plural=(n > 1)\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: 404.php:19
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found over here. Maybe try searching?"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:22
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:28
+msgid "Archives"
+msgstr ""
+
+#: archive.php:43 author.php:35 category.php:26 index.php:25 search.php:31
+#: tag.php:26
+msgid "&lt;&lt;"
+msgstr ""
+
+#: archive.php:44 author.php:36 category.php:27 index.php:26 search.php:32
+#: tag.php:27
+msgid "&gt;&gt;"
+msgstr ""
+
+#: archive.php:45 author.php:37 category.php:28 content.php:50 index.php:27
+#: search.php:33 tag.php:28
+msgid "Page"
+msgstr ""
+
+#: author.php:20
+#, php-format
+msgid "<span class=\"fa fa-user\"></span> %s"
+msgstr ""
+
+#: category.php:15
+#, php-format
+msgid "<span class=\"fa fa-folder-open-o\"></span> %s"
+msgstr ""
+
+#: comments.php:17
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:25 comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26 comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:10 content-image.php:17 content-page.php:21
+#: content-quote.php:12 content-status.php:11 content-video.php:26
+#: content.php:43
+msgid "<div class=\"more\">Read More &rarr;</div>"
+msgstr ""
+
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:24 content.php:46
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:6
+msgid "Main sidebar"
+msgstr ""
+
+#: functions.php:16
+msgid "Footer sidebar"
+msgstr ""
+
+#: functions.php:93
+msgid "Primary Menu"
+msgstr ""
+
+#: header.php:17
+msgid "Skip to content"
+msgstr ""
+
+#: postline_meta.php:13
+msgid "Leave a comment"
+msgstr ""
+
+#: postline_meta.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: postline_meta.php:13
+msgid "% Comments"
+msgstr ""
+
+#: postline_meta.php:14
+msgid "Edit"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "<span class=\"fa fa-search\"></span> %s"
+msgstr ""
+
+#: tag.php:15
+#, php-format
+msgid "<span class=\"fa fa-tags\"></span> %s"
+msgstr ""
+
+#: bit/customizer.php:15 bit/customizer.php:471
+msgid "Logo"
+msgstr ""
+
+#: bit/customizer.php:21 bit/customizer.php:357
+msgid "Width"
+msgstr ""
+
+#: bit/customizer.php:27
+msgid "Layout Options"
+msgstr ""
+
+#: bit/customizer.php:33
+msgid "Font Options"
+msgstr ""
+
+#: bit/customizer.php:39
+msgid "Meta Options"
+msgstr ""
+
+#: bit/customizer.php:55
+msgid "Both single and blog views"
+msgstr ""
+
+#: bit/customizer.php:57
+msgid "HIDE ALL meta info for posts"
+msgstr ""
+
+#: bit/customizer.php:73
+msgid "If checked - no meta info for pages."
+msgstr ""
+
+#: bit/customizer.php:75
+msgid "HIDE ALL meta info for pages"
+msgstr ""
+
+#: bit/customizer.php:92
+msgid "Hide categories in post meta"
+msgstr ""
+
+#: bit/customizer.php:109
+msgid "Hide date in post meta"
+msgstr ""
+
+#: bit/customizer.php:125
+msgid "Hide tags in post meta"
+msgstr ""
+
+#: bit/customizer.php:141
+msgid "Hide comment link in post meta"
+msgstr ""
+
+#: bit/customizer.php:157
+msgid "Hide author in post meta"
+msgstr ""
+
+#: bit/customizer.php:172
+msgid "Blogging area Color"
+msgstr ""
+
+#: bit/customizer.php:188
+msgid "Text Color"
+msgstr ""
+
+#: bit/customizer.php:211
+msgid "Headings Color"
+msgstr ""
+
+#: bit/customizer.php:234
+msgid "Links Color"
+msgstr ""
+
+#: bit/customizer.php:251
+msgid "Hover Color"
+msgstr ""
+
+#: bit/customizer.php:267
+msgid "Misc Color"
+msgstr ""
+
+#: bit/customizer.php:269
+msgid "Post meta, menu items and some other interface elements use it."
+msgstr ""
+
+#: bit/customizer.php:285
+msgid "Blog layout"
+msgstr ""
+
+#: bit/customizer.php:291 bit/customizer.php:315 bit/customizer.php:339
+msgid "Left Sidebar"
+msgstr ""
+
+#: bit/customizer.php:292 bit/customizer.php:316 bit/customizer.php:340
+msgid "Full Width / No sidebar"
+msgstr ""
+
+#: bit/customizer.php:293 bit/customizer.php:317 bit/customizer.php:341
+msgid "Right Sidebar"
+msgstr ""
+
+#: bit/customizer.php:309
+msgid "Single post layout"
+msgstr ""
+
+#: bit/customizer.php:333
+msgid "Single page layout"
+msgstr ""
+
+#: bit/customizer.php:360
+msgid "Choose max site width (in pixels)."
+msgstr ""
+
+#: bit/customizer.php:363
+msgid "980"
+msgstr ""
+
+#: bit/customizer.php:364
+msgid "1280"
+msgstr ""
+
+#: bit/customizer.php:365
+msgid "1400"
+msgstr ""
+
+#: bit/customizer.php:366
+msgid "1600"
+msgstr ""
+
+#: bit/customizer.php:367
+msgid "1920"
+msgstr ""
+
+#: bit/customizer.php:384
+msgid "Heading Font"
+msgstr ""
+
+#: bit/customizer.php:387
+msgid "Pick a font for headings (save and press F5 to see changes)"
+msgstr ""
+
+#: bit/customizer.php:417
+msgid "Body Font"
+msgstr ""
+
+#: bit/customizer.php:420
+msgid "Pick a font for body text (save and press F5 to see changes"
+msgstr ""
+
+#: bit/customizer.php:450
+msgid "Heading weight"
+msgstr ""
+
+#: bit/customizer.php:453
+msgid "Bold or normal headings?"
+msgstr ""
+
+#: bit/customizer.php:456
+msgid "Normal"
+msgstr ""
+
+#: bit/customizer.php:457
+msgid "Bold"
+msgstr ""
+
+#: bit/customizer.php:488
+msgid "Logo alignment"
+msgstr ""
+
+#: bit/customizer.php:491
+msgid "Where will the logo be?"
+msgstr ""
+
+#: bit/customizer.php:494
+msgid "Left"
+msgstr ""
+
+#: bit/customizer.php:495
+msgid "Center"
+msgstr ""
+
+#: bit/customizer.php:496
+msgid "Right"
+msgstr ""
+
+#: bit/customizer.php:513
+msgid "Footer Copyright"
+msgstr ""
+
+#: bit/customizer.php:524
+msgid "Upgrade to Simplified PRO"
+msgstr ""
+
+#: bit/customizer.php:525
+msgid ""
+"<p>\n"
+"\t\t\t  Do you like Simplified theme? You can update to Simplified Pro to "
+"support the developer and get even more exciting features:</p>\n"
+"\t\t\t\t<ul style=\"font-weight:bold;padding-left:10px;\">\n"
+"\t\t\t\t<li>Premium widget pack. Pixel perfect and designed to look great "
+"with your theme.</li>\n"
+"\t\t\t\t<li>Breadcrumbs navigation support</li>\n"
+"\t\t\t\t<li>30+ Google fonts</li>\n"
+"\t\t\t\t<li>Featured image support for posts and pages</li>\n"
+"\t\t\t\t<li>Lifetime updates for Simplified Pro theme</li>\n"
+"\t\t\t\t<li>Premium support for 1 year!</li>\t\t\t\n"
+"\t\t\t\t</ul>\t\t  \n"
+"\t\t\t  <h2 style=\"padding-left:10px;\">\n"
+"\t\t\t  <a href=\"http://www.poisonedcoffee.com/simplifiedpro/\">Read More</"
+"a>\n"
+"\t\t\t  </h2>\n"
+"\t\t\t  <h2 style=\"padding-left:10px;\"><a href=\"http://www.poisonedcoffee."
+"com/forums/\">Support forums</a>\n"
+"\t\t\t  </h2>\n"
+"\t\t\t  "
+msgstr ""

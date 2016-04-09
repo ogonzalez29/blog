@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogotron 1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-02 11:18+0200\n"
+"PO-Revision-Date: 2014-07-30 12:00+0300\n"
+"Last-Translator: BestWebSoft <info@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <info@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ blogotron
+#: 404.php:11
+#: functions.php:255
+msgid "Page Not Found"
+msgstr ""
+
+# @ blogotron
+#: 404.php:15
+msgid "Error 404"
+msgstr ""
+
+# @ blogotron
+#: 404.php:18
+msgid "Something has gone wrong? Try to use the search."
+msgstr ""
+
+# @ blogotron
+#: comments.php:16
+msgid "0 comments:"
+msgstr ""
+
+# @ blogotron
+#: comments.php:16
+msgid "1 comment:"
+msgstr ""
+
+# @ blogotron
+#: comments.php:16
+msgid "comments:"
+msgstr ""
+
+# @ blogotron
+#: comments.php:18
+msgid "Comments are closed."
+msgstr ""
+
+# @ blogotron
+#: comments.php:29
+msgid "&laquo; Previous Comments"
+msgstr ""
+
+# @ blogotron
+#: comments.php:30
+msgid "Next Comments &raquo;"
+msgstr ""
+
+# @ blogotron
+#: content-image.php:20
+#: content.php:25
+msgid "Posted on"
+msgstr ""
+
+# @ blogotron
+#: content-image.php:22
+#: content.php:27
+#: functions.php:333
+msgid "in"
+msgstr ""
+
+# @ blogoton
+# @ blogotron
+#: content-image.php:24
+#: content-page.php:23
+#: content.php:29
+#: functions.php:334
+#: functions.php:346
+#: functions.php:364
+msgid "[Edit]"
+msgstr ""
+
+# @ blogotron
+#: content-image.php:39
+msgid "&laquo; Previous Image"
+msgstr ""
+
+# @ blogotron
+#: content-image.php:40
+msgid "Next Image &raquo;"
+msgstr ""
+
+# @ blogotron
+#: content-image.php:45
+#: content-page.php:34
+#: content.php:42
+msgid "Pages:"
+msgstr ""
+
+# @ blogotron
+#: content-image.php:51
+#: content.php:61
+msgid "Tags: "
+msgstr ""
+
+# @ blogotron
+#: content-none.php:11
+msgid "Nothing found"
+msgstr ""
+
+# @ blogotron
+#: content-none.php:14
+msgid "Sorry, but your search returned no results. Try to change your search and repeat again."
+msgstr ""
+
+# @ blogotron
+#: content-page.php:41
+#: content.php:50
+msgid "[Top]"
+msgstr ""
+
+# @ blogotron
+#: content-page.php:45
+#: content.php:53
+msgid "0 comments"
+msgstr ""
+
+# @ blogotron
+#: content-page.php:45
+#: content.php:53
+msgid "1 comment"
+msgstr ""
+
+# @ blogotron
+#: content-page.php:45
+#: content.php:53
+msgid "comments"
+msgstr ""
+
+# @ blogotron
+#: content.php:15
+msgid "Sticky post"
+msgstr ""
+
+# @ blogotron
+#: content.php:41
+msgid "Read more... &raquo;"
+msgstr ""
+
+# @ blogotron
+#: footer.php:16
+msgid "Powered by"
+msgstr ""
+
+# @ blogotron
+#: footer.php:16
+msgid "and"
+msgstr ""
+
+# @ blogotron
+#: functions.php:50
+msgid "Main Menu"
+msgstr ""
+
+# @ blogotron
+#: functions.php:61
+msgid "Main Sidebar"
+msgstr ""
+
+# @ blogotron
+#: functions.php:63
+msgid "Widgets for the sidebar."
+msgstr ""
+
+# @ blogotron
+#: functions.php:91
+msgid "Choose file..."
+msgstr ""
+
+# @ blogotron
+#: functions.php:92
+msgid "File is not selected."
+msgstr ""
+
+# @ blogotron
+#: functions.php:93
+msgid "Enter search keyword"
+msgstr ""
+
+# @ blogotron
+#: functions.php:233
+#: functions.php:236
+#: functions.php:239
+#: functions.php:297
+#: functions.php:299
+#: functions.php:301
+msgid "Archives for: "
+msgstr ""
+
+# @ blogotron
+#: functions.php:242
+#: functions.php:303
+msgid "Category: "
+msgstr ""
+
+# @ blogotron
+#: functions.php:245
+#: functions.php:305
+msgid "Tag: "
+msgstr ""
+
+# @ blogotron
+#: functions.php:248
+#: functions.php:307
+msgid "Archives"
+msgstr ""
+
+# @ blogotron
+#: functions.php:252
+#: search.php:11
+msgid "Search Results For: "
+msgstr ""
+
+# @ blogotron
+#: functions.php:259
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ blogotron
+#: functions.php:278
+msgid "&laquo; Previous Page"
+msgstr ""
+
+# @ blogotron
+#: functions.php:279
+msgid "Next Page &raquo;"
+msgstr ""
+
+# @ blogotron
+#: functions.php:333
+msgid "Published"
+msgstr ""
+
+# @ blogotron
+#: functions.php:333
+msgid "at"
+msgstr ""
+
+# @ blogotron
+#: functions.php:346
+msgid "Pingback:"
+msgstr ""
+
+# @ blogotron
+#: functions.php:358
+msgid "Post Author"
+msgstr ""
+
+# @ blogotron
+#: functions.php:363
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ blogotron
+#: functions.php:368
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ blogotron
+#: functions.php:374
+msgid "Reply"
+msgstr ""
+
+# @ blogotron
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+# @ blogotron
+#: sidebar.php:17
+msgid "recent posts"
+msgstr ""
+
+# @ blogotron
+#: sidebar.php:25
+msgid "recent comments"
+msgstr ""
+
+# @ blogotron
+#: sidebar.php:28
+msgid "on"
+msgstr ""
+
+# @ blogotron
+#: sidebar.php:33
+msgid "archives"
+msgstr ""
+
+# @ blogotron
+#: sidebar.php:37
+msgid "categories"
+msgstr ""

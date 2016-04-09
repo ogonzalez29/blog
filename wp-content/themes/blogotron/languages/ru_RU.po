@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogotron 1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-02 11:18+0200\n"
+"PO-Revision-Date: 2014-02-02 11:18+0200\n"
+"Last-Translator: BestWebSoft <info@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <info@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ blogotron
+#: 404.php:11 functions.php:255
+msgid "Page Not Found"
+msgstr "Страница Не Найдена"
+
+# @ blogotron
+#: 404.php:15
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+# @ blogotron
+#: 404.php:18
+msgid "Something has gone wrong? Try to use the search."
+msgstr "Что то пошло не так? Попробуйте использовать поиск."
+
+# @ blogotron
+#: comments.php:16
+msgid "0 comments:"
+msgstr "0 комментариев:"
+
+# @ blogotron
+#: comments.php:16
+msgid "1 comment:"
+msgstr "1 комментарий:"
+
+# @ blogotron
+#: comments.php:16
+msgid "comments:"
+msgstr "комментариев:"
+
+# @ blogotron
+#: comments.php:18
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+# @ blogotron
+#: comments.php:29
+msgid "&laquo; Previous Comments"
+msgstr "&laquo; Предыдущие Комментарии"
+
+# @ blogotron
+#: comments.php:30
+msgid "Next Comments &raquo;"
+msgstr "Следующие Комментарии &raquo;"
+
+# @ blogotron
+#: content-image.php:20 content.php:25
+msgid "Posted on"
+msgstr "Опубликовано"
+
+# @ blogotron
+#: content-image.php:22 content.php:27 functions.php:333
+msgid "in"
+msgstr "в"
+
+# @ blogoton
+# @ blogotron
+#: content-image.php:24 content-page.php:23 content.php:29 functions.php:334
+#: functions.php:346 functions.php:364
+msgid "[Edit]"
+msgstr "[Редактировать]"
+
+# @ blogotron
+#: content-image.php:39
+msgid "&laquo; Previous Image"
+msgstr "&laquo; Предыдущее Изображение"
+
+# @ blogotron
+#: content-image.php:40
+msgid "Next Image &raquo;"
+msgstr "Следующее Изображение &raquo;"
+
+# @ blogotron
+#: content-image.php:45 content-page.php:34 content.php:42
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ blogotron
+#: content-image.php:51 content.php:61
+msgid "Tags: "
+msgstr "Метки: "
+
+# @ blogotron
+#: content-none.php:11
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+# @ blogotron
+#: content-none.php:14
+msgid ""
+"Sorry, but your search returned no results. Try to change your search and "
+"repeat again."
+msgstr ""
+"Извините, поиск не вернул результатов. Попробуйте изменить ключевые слова и "
+"попробовать найти снова."
+
+# @ blogotron
+#: content-page.php:41 content.php:50
+msgid "[Top]"
+msgstr "[Вверх]"
+
+# @ blogotron
+#: content-page.php:45 content.php:53
+msgid "0 comments"
+msgstr "0 комментариев:"
+
+# @ blogotron
+#: content-page.php:45 content.php:53
+msgid "1 comment"
+msgstr "1 комментарий:"
+
+# @ blogotron
+#: content-page.php:45 content.php:53
+msgid "comments"
+msgstr "комментариев"
+
+# @ blogotron
+#: content.php:15
+msgid "Sticky post"
+msgstr "Прикрепленный пост"
+
+# @ blogotron
+#: content.php:41
+msgid "Read more... &raquo;"
+msgstr "Читать дальше... &raquo;"
+
+# @ blogotron
+#: footer.php:16
+msgid "Powered by"
+msgstr "При поддержке"
+
+# @ blogotron
+#: footer.php:16
+msgid "and"
+msgstr "и"
+
+# @ blogotron
+#: functions.php:50
+msgid "Main Menu"
+msgstr "Главное Меню"
+
+# @ blogotron
+#: functions.php:61
+msgid "Main Sidebar"
+msgstr "Главный Сайдбар"
+
+# @ blogotron
+#: functions.php:63
+msgid "Widgets for the sidebar."
+msgstr "Виджеты для сайдбара."
+
+# @ blogotron
+#: functions.php:91
+msgid "Choose file..."
+msgstr "Выберите файл..."
+
+# @ blogotron
+#: functions.php:92
+msgid "File is not selected."
+msgstr "Файл не выбран."
+
+# @ blogotron
+#: functions.php:93
+msgid "Enter search keyword"
+msgstr "Поиск по сайту"
+
+# @ blogotron
+#: functions.php:233 functions.php:236 functions.php:239 functions.php:297
+#: functions.php:299 functions.php:301
+msgid "Archives for: "
+msgstr "Архивы за: "
+
+# @ blogotron
+#: functions.php:242 functions.php:303
+msgid "Category: "
+msgstr "Рубрика: "
+
+# @ blogotron
+#: functions.php:245 functions.php:305
+msgid "Tag: "
+msgstr "Метка: "
+
+# @ blogotron
+#: functions.php:248 functions.php:307
+msgid "Archives"
+msgstr "Архивы"
+
+# @ blogotron
+#: functions.php:252 search.php:11
+msgid "Search Results For: "
+msgstr "Результаты поиска: "
+
+# @ blogotron
+#: functions.php:259
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ blogotron
+#: functions.php:278
+msgid "&laquo; Previous Page"
+msgstr "&laquo; Предыдущая Страница"
+
+# @ blogotron
+#: functions.php:279
+msgid "Next Page &raquo;"
+msgstr "Следующая Страница &raquo;"
+
+# @ blogotron
+#: functions.php:333
+msgid "Published"
+msgstr "Опубликовано"
+
+# @ blogotron
+#: functions.php:333
+msgid "at"
+msgstr "в разрешении"
+
+# @ blogotron
+#: functions.php:346
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+# @ blogotron
+#: functions.php:358
+msgid "Post Author"
+msgstr "Автор Записи"
+
+# @ blogotron
+#: functions.php:363
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+# @ blogotron
+#: functions.php:368
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+# @ blogotron
+#: functions.php:374
+msgid "Reply"
+msgstr "Ответить"
+
+# @ blogotron
+#: searchform.php:12
+msgid "Search"
+msgstr "Найти"
+
+# @ blogotron
+#: sidebar.php:17
+msgid "recent posts"
+msgstr "свежие записи"
+
+# @ blogotron
+#: sidebar.php:25
+msgid "recent comments"
+msgstr "свежие комментарии"
+
+# @ blogotron
+#: sidebar.php:28
+msgid "on"
+msgstr "в"
+
+# @ blogotron
+#: sidebar.php:33
+msgid "archives"
+msgstr "архивы"
+
+# @ blogotron
+#: sidebar.php:37
+msgid "categories"
+msgstr "рубрики"

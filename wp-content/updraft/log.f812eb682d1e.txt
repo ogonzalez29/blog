@@ -1,0 +1,72 @@
+0000.004 () Opened log file at time: Tue, 22 Mar 2016 20:24:23 +0000 on http://www.servitalleres.com/blog
+0000.005 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.31 (Linux r3-chicago.webserversystems.com 3.14.25-grsec.3.el5 #1 SMP Mon Jan 5 14:23:02 GMT 2015 x86_64) MySQL: 5.5.40 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.4M | 24.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.125 () Free space on disk containing Updraft's temporary directory: 378176.7 Mb / Free disk space in account: 902.5 Mb (9.8 % used)
+0000.127 () Restore job started. Entities to restore: plugins, themes, uploads, others, db. Restore options: {"updraft_restorer_replacesiteurl":false,"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false}
+0000.162 () Entity: db
+0000.162 () restore_backup(backup_file=backup_2016-02-29-1640_Blog_Servitalleres_5c34c8fd6990-db.gz, type=db, info=a:0:{}, last_one=)
+0000.162 () Unpacking backup...
+0000.163 () Database successfully unpacked
+0000.163 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.163 () Using direct MySQL access; value of use_mysqli is: 1
+0000.186 () Tried to raise max_allowed_packet from 16 Mb to 32 Mb, but failed (Access denied; you need (at least one of) the SUPER privilege(s) for this operation, b:0;)
+0000.186 () Max packet size: 16 Mb
+0000.186 () Entering maintenance mode
+0000.186 () Activando el modo de mantenimiento&#8230;
+0000.187 () <strong>Backup of:</strong> http://servitalleres.com/blog
+0000.217 () Content URL: http://servitalleres.com/blog/wp-content
+0000.217 () Uploads URL: http://servitalleres.com/blog/wp-content/uploads
+0000.218 () Old table prefix: wp85s_
+0000.218 () Site information: multisite=0
+0000.220 () New table prefix: wp_
+0000.222 () Restoring table (InnoDB): wp85s_options - will restore as: wp_options
+0000.289 () Restoring prior UD configuration (table: wp_options; keys: 94)
+0000.407 () Table prefix has changed: changing options table field(s) accordingly (options)
+0000.408 () Options table fields changed OK
+0000.456 () Restoring table (InnoDB): wp85s_users - will restore as: wp_users
+0000.464 () Restoring table (InnoDB): wp85s_usermeta - will restore as: wp_usermeta
+0000.473 () Table prefix has changed: changing usermeta table field(s) accordingly
+0000.474 () Usermeta table fields changed OK
+0000.474 () Restoring table (InnoDB): wp85s_commentmeta - will restore as: wp_commentmeta
+0000.481 () Restoring table (InnoDB): wp85s_comments - will restore as: wp_comments
+0000.488 () Restoring table (InnoDB): wp85s_links - will restore as: wp_links
+0000.500 () Restoring table (InnoDB): wp85s_postmeta - will restore as: wp_postmeta
+0000.544 () Restoring table (InnoDB): wp85s_posts - will restore as: wp_posts
+0000.584 () Restoring table (InnoDB): wp85s_term_relationships - will restore as: wp_term_relationships
+0000.593 () Restoring table (InnoDB): wp85s_term_taxonomy - will restore as: wp_term_taxonomy
+0000.601 () Restoring table (InnoDB): wp85s_termmeta - will restore as: wp_termmeta
+0000.607 () Restoring table (InnoDB): wp85s_terms - will restore as: wp_terms
+0000.615 () Restoring table (InnoDB): wp85s_inbound_events - will restore as: wp_inbound_events
+0000.620 () Restoring table (InnoDB): wp85s_inbound_tracked_links - will restore as: wp_inbound_tracked_links
+0000.639 () Unlocking database and leaving maintenance mode
+0000.639 () Desactivando el modo de mantenimiento&#8230;
+0000.639 () Finished: lines processed: 45 in 0.48 seconds
+0000.640 () Cleaning up rubbish...
+0000.649 () Entity: plugins
+0000.649 () restore_backup(backup_file=backup_2016-02-29-1640_Blog_Servitalleres_5c34c8fd6990-plugins.zip, type=plugins, info=a:2:{s:4:"path";s:50:"/home/servital/public_html/blog/wp-content/plugins";s:11:"description";s:7:"Plugins";}, last_one=)
+0000.649 () Unpacking backup... (backup_2016-02-29-1640_Blog_Servitalleres_5c34c8fd6990-plugins.zip, 37.2 Mb)
+0010.917 () Moving old data: filesystem method / updraft_dir is potentially possible
+0010.917 () Moving old data: can potentially use wp_filesystem method / -old
+0010.917 () Moving old data out of the way...
+0011.081 () Top-level entities being moved: updraftplus, index.php, akismet, hello.php
+0011.084 () Moving unpacked backup into place...
+0011.611 () Top-level entities being moved: cta, wp-sugar-free, google-analytics-for-wordpress, updraftplus, index.php, mailchimp-for-wp, wp-widget-sugarcrm-lead-module, contact-form-7, facebook-like-box-widget, landing-pages, wp-leads-builder-any-crm, leads, easy-facebook-likebox, wpcat2tag-importer, social-media-feather, wordpress-seo
+0011.626 () Cleaning up rubbish...
+0011.635 () Entity: themes
+0011.635 () restore_backup(backup_file=backup_2016-02-29-1640_Blog_Servitalleres_5c34c8fd6990-themes.zip, type=themes, info=a:2:{s:4:"path";s:49:"/home/servital/public_html/blog/wp-content/themes";s:11:"description";s:6:"Themes";}, last_one=)
+0011.635 () Unpacking backup... (backup_2016-02-29-1640_Blog_Servitalleres_5c34c8fd6990-themes.zip, 6.4 Mb)
+0012.254 () Moving old data: filesystem method / updraft_dir is potentially possible
+0012.255 () Moving old data: can potentially use wp_filesystem method / -old
+0012.255 () Moving old data out of the way...
+0012.298 () Top-level entities being moved: index.php, twentyfourteen, twentyfifteen, twentysixteen
+0012.299 () Moving unpacked backup into place...
+0012.339 () Top-level entities being moved: twentythirteen, blogbox, index.php, twentyfourteen, simplifiedblog, twentyfifteen, blogotron
+0012.340 () Cleaning up rubbish...
+0012.343 () Entity: uploads
+0012.343 () restore_backup(backup_file=backup_2016-02-29-1640_Blog_Servitalleres_5c34c8fd6990-uploads.zip, type=uploads, info=a:2:{s:4:"path";s:50:"/home/servital/public_html/blog/wp-content/uploads";s:11:"description";s:7:"Uploads";}, last_one=)
+0012.343 () Unpacking backup... (backup_2016-02-29-1640_Blog_Servitalleres_5c34c8fd6990-uploads.zip, 1 Mb)
+0012.394 () Error message: El paquete no pudo ser instalado.
+0012.394 () Error data (incompatible_archive): PCLZIP_ERR_BAD_FORMAT (-10) : Unable to find End of Central Dir Record signature
+0012.394 () Restore failed...
+0012.394 () Error message: El paquete no pudo ser instalado.
+0012.394 () Error data (incompatible_archive): PCLZIP_ERR_BAD_FORMAT (-10) : Unable to find End of Central Dir Record signature
+0012.394 () Restore failed
