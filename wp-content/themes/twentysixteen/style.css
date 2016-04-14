@@ -1590,7 +1590,7 @@ blockquote:after,
 	color: #1a1a1a;
 	font-size: 13px;
 	font-size: 0.8125rem;
-	margin: 1.076923077em 0;
+	margin-bottom: 1.3125em;
 	padding: 0.769230769em;
 }
 
@@ -1623,7 +1623,8 @@ blockquote:after,
 
 .header-image {
 	clear: both;
-	margin: 0.875em 0;
+	margin-top: 0.875em;
+	margin-bottom: 0px;
 }
 
 .header-image a {
@@ -2745,7 +2746,8 @@ p > video {
 	.menu-toggle {
 		font-size: 16px;
 		font-size: 1.0rem;
-		margin: 1.3125em 0;
+		margin-top: 0px;
+		margin-bottom: 1.3125em;
 		padding: 0.8125em 0.875em 0.6875em;
 	}
 
@@ -2758,7 +2760,8 @@ p > video {
 	}
 
 	.header-image {
-		margin: 1.3125em 0;
+		margin-top: 1.3125em;
+		margin-bottom: 0px;
 	}
 
 	.pagination {
@@ -2929,6 +2932,7 @@ p > video {
 	}
 
 	.site-header-menu {
+		margin-top: 0px;
 		display: block;
 		-webkit-flex: 0 1 auto;
 		-ms-flex: 0 1 auto;
@@ -3353,10 +3357,13 @@ p > video {
 	}
 
 	.site-branding,
-	.site-header-menu,
 	.header-image {
 		margin-top: 1.75em;
-		margin-bottom: 1.75em;
+		margin-bottom: 0px;
+	}
+
+	.site-header-menu, {
+		margin-top: 0px;
 	}
 
 	.image-navigation {
