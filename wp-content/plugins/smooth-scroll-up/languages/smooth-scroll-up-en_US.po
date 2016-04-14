@@ -1,0 +1,175 @@
+#
+# Translators:
+# Konstantinos Kouratoras <kouratoras@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: Smooth Scroll Up\n"
+"POT-Creation-Date: 2015-12-28 19:13+0200\n"
+"PO-Revision-Date: 2015-12-28 19:13+0200\n"
+"Last-Translator: Konstantinos Kouratoras <kouratoras@gmail.com>\n"
+"Language-Team: English (United States) (http://www.transifex.com/projects/p/"
+"smooth-scroll-up/language/en_US/)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lib/options.php:33
+msgid "Options"
+msgstr ""
+
+#: lib/options.php:40
+msgid "Show Options"
+msgstr ""
+
+#: lib/options.php:47
+msgid "Advanced Options"
+msgstr ""
+
+#: lib/options.php:54
+msgid "Text"
+msgstr "Text"
+
+#: lib/options.php:62
+msgid "Type"
+msgstr "Type"
+
+#: lib/options.php:70 lib/options.php:152
+msgid "Image"
+msgstr "Image"
+
+#: lib/options.php:78
+msgid "Position"
+msgstr "Position"
+
+#: lib/options.php:86
+msgid "Show in homepage"
+msgstr "Show in homepage"
+
+#: lib/options.php:94
+msgid "Show/hide scroll up element from specific posts or pages"
+msgstr ""
+
+#: lib/options.php:102
+msgid "Show in mobile devices"
+msgstr "Show in mobile devices"
+
+#: lib/options.php:110
+msgid "Show animation"
+msgstr "Show animation"
+
+#: lib/options.php:118
+msgid "Distance from top before showing scroll up element"
+msgstr "Distance from top before showing scroll up element"
+
+#: lib/options.php:126
+msgid "Onclick event"
+msgstr "Onclick event"
+
+#: lib/options.php:153
+msgid "Text link"
+msgstr "Text link"
+
+#: lib/options.php:154
+msgid "Pill"
+msgstr "Pill"
+
+#: lib/options.php:155
+msgid "Tab"
+msgstr "Tab"
+
+#: lib/options.php:171
+msgid "Select Image"
+msgstr ""
+
+#: lib/options.php:174
+msgid "Selected image should be 38x38 pixels."
+msgstr ""
+
+#: lib/options.php:190
+msgid "Left"
+msgstr "Left"
+
+#: lib/options.php:191
+msgid "Right"
+msgstr "Right"
+
+#: lib/options.php:192
+msgid "Center"
+msgstr "Center"
+
+#: lib/options.php:206 lib/options.php:221
+msgid "No"
+msgstr "No"
+
+#: lib/options.php:207 lib/options.php:222
+msgid "Yes"
+msgstr "Yes"
+
+#: lib/options.php:247
+msgid "Hide from"
+msgstr ""
+
+#: lib/options.php:248
+msgid "Show only in"
+msgstr ""
+
+#: lib/options.php:253
+msgid ""
+"Specify IDs of posts or pages (seperated by commas) and select to show or "
+"hide scroll up element"
+msgstr ""
+
+#: lib/options.php:264
+msgid "None"
+msgstr "None"
+
+#: lib/options.php:265
+msgid "Fade"
+msgstr "Fade"
+
+#: lib/options.php:266
+msgid "Slide"
+msgstr "Slide"
+
+#: lib/options.php:281
+#, php-format
+msgid "example: type %s in order to add an event %s"
+msgstr "example: type %s in order to add an event %s"
+
+#: lib/options.php:287
+msgid "This section contains basic options for Smooth Scroll Up plugin"
+msgstr ""
+
+#: lib/options.php:291
+msgid "This section contains show options for Smooth Scroll Up plugin"
+msgstr ""
+
+#: lib/options.php:295
+msgid "This section contains advanced options for Smooth Scroll Up plugin"
+msgstr ""
+
+#: lib/options.php:304
+msgid "Smooth Scroll Up"
+msgstr ""
+
+#: plugin.php:84
+msgid "Settings"
+msgstr "Settings"
+
+#~ msgid "Scroll Up Options"
+#~ msgstr "Scroll Up Options"
+
+#~ msgid "Options saved."
+#~ msgstr "Options saved."
+
+#~ msgid "Save Changes"
+#~ msgstr "Save Changes"
