@@ -451,7 +451,9 @@ html {
 }
 
 body {
-	background: #1a1a1a;
+	background: #f6f6f6;
+	padding-top: 40px;
+	padding-bottom: 40px;
 	/* Fallback for when there is no custom background color defined. */
 }
 
@@ -2718,6 +2720,10 @@ p > video {
 
 	.site {
 		/*margin: 21px;*/
+		max-width: 1038px;
+		margin: 0 auto;
+		background: #fff;
+		box-shadow: 0 0 8px rgba(0,0,0,0.2);
 	}
 
 	.site-main {
