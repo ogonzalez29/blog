@@ -2006,7 +2006,7 @@ body:not(.search-results) .entry-summary > :last-child,
 }
 
 .page-header {
-	border-top: 4px solid #1a1a1a;
+	border-top: 2px solid #1a1a1a;
 	margin: 0 7.6923% 3.5em;
 	padding-top: 1.75em;
 }
@@ -2694,7 +2694,7 @@ p > video {
 @media screen and (min-width: 44.375em) {
 	body:not(.custom-background-image):before,
 	body:not(.custom-background-image):after {
-		background: inherit;
+		/*background: inherit;*/
 		content: "";
 		display: block;
 		height: 21px;
@@ -2717,7 +2717,7 @@ p > video {
 	}
 
 	.site {
-		margin: 21px;
+		/*margin: 21px;*/
 	}
 
 	.site-main {
