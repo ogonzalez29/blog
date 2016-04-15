@@ -1,0 +1,355 @@
+0000.031 (0) Opened log file at time: Fri, 15 Apr 2016 18:05:07 +0000 on http://localhost/blog
+0000.047 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.2 WP: 4.4.2 PHP: 5.4.31 (Windows NT CAJA 5.1 build 2600 (Windows XP Professional Service Pack 3) i586) MySQL: 5.5.39 Server: Apache/2.4.10 (Win32) OpenSSL/1.0.1h PHP/5.4.31 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 26.9M | 28M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.047 (0) Free space on disk containing Updraft's temporary directory: 15356.6 MB
+0000.063 (0) Tasks: Backup files: 1 (schedule: fortnightly) Backup DB:  (schedule: fortnightly)
+0000.063 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.250 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1457991760, seconds_ago=2751747)
+0000.297 (0) Set semaphore last lock (fd) time to 2016-04-15 18:05:07
+0000.297 (0) Semaphore lock (fd) complete
+0000.344 (0) Backup run: resumption=0, nonce=31bca5e97c63, begun at=1460743507 (0s ago), job type=backup
+0000.375 (0) Scheduling a resumption (1) after 300 seconds (1460743807) in case this run gets aborted
+0000.438 (0) Checking if we have a zip executable available
+0000.438 (0) Creation of backups of directories: beginning
+0000.469 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0019.609 (0) Total entities for the zip file: 824 directories, 5024 files (0 skipped as non-modified), 75.4 MB
+0019.688 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0019.969 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 100 files added (on-disk size: 152.5 KB)
+0020.141 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 200 files added (on-disk size: 152.5 KB)
+0020.313 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 300 files added (on-disk size: 152.5 KB)
+0020.516 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 400 files added (on-disk size: 152.5 KB)
+0020.891 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 500 files added (on-disk size: 152.5 KB)
+0020.906 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.4 MB, 5024 files batched, 501 (502) added so far); re-opening (prior size: 152.5 KB)
+0034.281 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 600 files added (on-disk size: 4756.4 KB)
+0035.563 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 190 (692) files added so far); re-opening (prior size: 4756.4 KB)
+0045.531 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 700 files added (on-disk size: 5610.2 KB)
+0047.094 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 800 files added (on-disk size: 5610.2 KB)
+0047.547 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 136 (828) files added so far); re-opening (prior size: 5610.2 KB)
+0051.203 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 900 files added (on-disk size: 6549 KB)
+0052.219 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1000 files added (on-disk size: 6549 KB)
+0052.500 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1100 files added (on-disk size: 6549 KB)
+0052.984 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1200 files added (on-disk size: 6549 KB)
+0053.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.3 MB, 454 (1282) files added so far); re-opening (prior size: 6549 KB)
+0073.156 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1300 files added (on-disk size: 10237.8 KB)
+0074.891 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1400 files added (on-disk size: 10237.8 KB)
+0075.516 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.2 MB, 125 (1407) files added so far); re-opening (prior size: 10237.8 KB)
+0084.500 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1500 files added (on-disk size: 10923.1 KB)
+0086.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.8 MB, 153 (1560) files added so far); re-opening (prior size: 10923.1 KB)
+0096.453 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1600 files added (on-disk size: 12567.1 KB)
+0098.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 60 (1620) files added so far); re-opening (prior size: 12567.1 KB)
+0103.000 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1700 files added (on-disk size: 13210.1 KB)
+0105.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 147 (1767) files added so far); re-opening (prior size: 13210.1 KB)
+0109.125 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1800 files added (on-disk size: 13568.7 KB)
+0110.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 49 (1816) files added so far); re-opening (prior size: 13568.7 KB)
+0112.625 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 1900 files added (on-disk size: 14160.3 KB)
+0113.078 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2000 files added (on-disk size: 14160.3 KB)
+0113.516 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2100 files added (on-disk size: 14160.3 KB)
+0114.281 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2200 files added (on-disk size: 14160.3 KB)
+0114.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.7 MB, 442 (2258) files added so far); re-opening (prior size: 14160.3 KB)
+0120.234 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2300 files added (on-disk size: 16739 KB)
+0120.750 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2400 files added (on-disk size: 16739 KB)
+0121.391 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2500 files added (on-disk size: 16739 KB)
+0122.359 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2600 files added (on-disk size: 16739 KB)
+0122.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.9 MB, 355 (2613) files added so far); re-opening (prior size: 16739 KB)
+0128.000 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2700 files added (on-disk size: 19466.3 KB)
+0128.250 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2800 files added (on-disk size: 19466.3 KB)
+0129.250 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 2900 files added (on-disk size: 19466.3 KB)
+0129.563 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3000 files added (on-disk size: 19466.3 KB)
+0129.953 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3100 files added (on-disk size: 19466.3 KB)
+0130.031 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.4 MB, 5024 files batched, 501 (3114) added so far); re-opening (prior size: 19466.3 KB)
+0140.922 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3200 files added (on-disk size: 22480.5 KB)
+0141.625 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3300 files added (on-disk size: 22480.5 KB)
+0142.047 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3400 files added (on-disk size: 22480.5 KB)
+0142.422 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3500 files added (on-disk size: 22480.5 KB)
+0143.031 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3600 files added (on-disk size: 22480.5 KB)
+0143.109 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.6 MB, 5024 files batched, 501 (3615) added so far); re-opening (prior size: 22480.5 KB)
+0159.688 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3700 files added (on-disk size: 27891.6 KB)
+0160.484 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3800 files added (on-disk size: 27891.6 KB)
+0161.078 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 3900 files added (on-disk size: 27891.6 KB)
+0161.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.6 MB, 380 (3995) files added so far); re-opening (prior size: 27891.6 KB)
+0169.578 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4000 files added (on-disk size: 28484.8 KB)
+0170.156 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4100 files added (on-disk size: 28484.8 KB)
+0170.781 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4200 files added (on-disk size: 28484.8 KB)
+0171.125 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4300 files added (on-disk size: 28484.8 KB)
+0171.453 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4400 files added (on-disk size: 28484.8 KB)
+0171.750 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.2 MB, 5024 files batched, 501 (4496) added so far); re-opening (prior size: 28484.8 KB)
+0179.344 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4500 files added (on-disk size: 30543.7 KB)
+0179.813 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4600 files added (on-disk size: 30543.7 KB)
+0180.516 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4700 files added (on-disk size: 30543.7 KB)
+0181.156 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4800 files added (on-disk size: 30543.7 KB)
+0181.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 385 (4881) files added so far); re-opening (prior size: 30543.7 KB)
+0189.344 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 4900 files added (on-disk size: 31839.5 KB)
+0190.406 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip.tmp: 5000 files added (on-disk size: 31839.5 KB)
+0190.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 138 (5019) files added so far); re-opening (prior size: 31839.5 KB)
+0197.609 (0) Created plugins zip (0) - 34253.2 KB in 197.1 s (173.8 KB/s) (SHA1 checksum: 27b228d004f2e88cc8ecb277cd3e55816fd2666d)
+0197.625 (0) Beginning creation of dump of themes (split every: 400 MB)
+0198.422 (0) Total entities for the zip file: 64 directories, 494 files (0 skipped as non-modified), 14.4 MB
+0198.547 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0198.672 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0198.906 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0199.016 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0209.953 (0) Created themes zip (0) - 7035.2 KB in 12.3 s (570.7 KB/s) (SHA1 checksum: 25debdb8dad7cc7afaa23fc9667c4a08da45c0f1)
+0209.984 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0210.000 (0) Looking for candidates to back up in: C:\xampp\htdocs\blog/wp-content/uploads
+0210.000 (0) finding files: 2015: adding to list (1)
+0210.016 (0) finding files: 2016: adding to list (2)
+0210.016 (0) finding files: calls-to-action: adding to list (3)
+0210.016 (0) finding files: landing-pages: adding to list (4)
+0210.031 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0210.438 (0) Total entities for the zip file: 14 directories, 141 files (0 skipped as non-modified), 11.1 MB
+0210.594 (0) Zip: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0218.047 (0) Created uploads zip (0) - 11078.9 KB in 8 s (1384.9 KB/s) (SHA1 checksum: 4709ed71b74df6c5b30b2b504f48c38c40674e38)
+0218.063 (0) Beginning backup of other directories found in the content directory (index: 0)
+0218.063 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0218.078 (0) Looking for candidates to back up in: C:\xampp\htdocs\blog/wp-content
+0218.078 (0) finding files: index.php: adding to list (1)
+0218.078 (0) finding files: languages: adding to list (2)
+0218.094 (0) finding files: plugins: skipping: this is the plugins directory
+0218.094 (0) finding files: themes: skipping: this is the themes directory
+0218.109 (0) finding files: updraft: skipping: this is the updraft directory
+0218.109 (0) finding files: uploads: skipping: this is the uploads directory
+0218.156 (0) Total entities for the zip file: 2 directories, 17 files (0 skipped as non-modified), 1.4 MB
+0219.250 (0) Created others zip (0) - 419.7 KB in 1.1 s (373.1 KB/s) (SHA1 checksum: 058d416d42d694fb1e7e8be7a3a2536784f2d307)
+0219.281 (0) Saving backup status to database (elements: 8)
+0219.297 (0) Beginning creation of database dump (WordPress DB)
+0219.750 (0) Table wp85s_options: Total expected rows (approximate): 295
+0219.797 (0) Table wp85s_options: Total rows added: 308 in 0.05 seconds
+0219.813 (0) Table wp85s_options: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_options.table.gz - 54.8 KB)
+0219.828 (0) Table wp85s_users: Total expected rows (approximate): 1
+0219.844 (0) Table wp85s_users: Total rows added: 1 in 0.02 seconds
+0219.844 (0) Table wp85s_users: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_users.table.gz - 0.5 KB)
+0219.875 (0) Table wp85s_usermeta: Total expected rows (approximate): 35
+0219.906 (0) Table wp85s_usermeta: Total rows added: 35 in 0.03 seconds
+0219.922 (0) Table wp85s_usermeta: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_usermeta.table.gz - 1.4 KB)
+0219.984 (0) Table wp85s_commentmeta: Total expected rows (approximate): 0
+0220.000 (0) Table wp85s_commentmeta: Total rows added: 0 in 0.02 seconds
+0220.000 (0) Table wp85s_commentmeta: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_commentmeta.table.gz - 0.4 KB)
+0220.031 (0) Table wp85s_comments: Total expected rows (approximate): 0
+0220.047 (0) Table wp85s_comments: Total rows added: 0 in 0.02 seconds
+0220.063 (0) Table wp85s_comments: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_comments.table.gz - 0.5 KB)
+0220.109 (0) Table wp85s_links: Total expected rows (approximate): 0
+0220.125 (0) Table wp85s_links: Total rows added: 0 in 0.02 seconds
+0220.141 (0) Table wp85s_links: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_links.table.gz - 0.4 KB)
+0220.172 (0) Table wp85s_postmeta: Total expected rows (approximate): 319
+0220.188 (0) Table wp85s_postmeta: Total rows added: 301 in 0.02 seconds
+0220.203 (0) Table wp85s_postmeta: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_postmeta.table.gz - 8.1 KB)
+0220.250 (0) Table wp85s_posts: Total expected rows (approximate): 79
+0220.297 (0) Table wp85s_posts: Total rows added: 88 in 0.05 seconds
+0220.313 (0) Table wp85s_posts: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_posts.table.gz - 31.6 KB)
+0220.375 (0) Table wp85s_term_relationships: Total expected rows (approximate): 17
+0220.375 (0) Table wp85s_term_relationships: Total rows added: 17 in 0.00 seconds
+0220.391 (0) Table wp85s_term_relationships: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_term_relationships.table.gz - 0.4 KB)
+0220.406 (0) Table wp85s_term_taxonomy: Total expected rows (approximate): 21
+0220.422 (0) Table wp85s_term_taxonomy: Total rows added: 21 in 0.02 seconds
+0220.438 (0) Table wp85s_term_taxonomy: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_term_taxonomy.table.gz - 0.6 KB)
+0220.469 (0) Table wp85s_termmeta: Total expected rows (approximate): 0
+0220.484 (0) Table wp85s_termmeta: Total rows added: 0 in 0.02 seconds
+0220.484 (0) Table wp85s_termmeta: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_termmeta.table.gz - 0.4 KB)
+0220.500 (0) Table wp85s_terms: Total expected rows (approximate): 21
+0220.516 (0) Table wp85s_terms: Total rows added: 21 in 0.02 seconds
+0220.516 (0) Table wp85s_terms: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_terms.table.gz - 0.7 KB)
+0220.531 (0) Skipping table (lacks our prefix (wp85s_)): oepl_crm_map_fields
+0220.547 (0) Table wp85s_inbound_events: Total expected rows (approximate): 0
+0220.563 (0) Table wp85s_inbound_events: Total rows added: 0 in 0.02 seconds
+0220.563 (0) Table wp85s_inbound_events: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_inbound_events.table.gz - 0.4 KB)
+0220.578 (0) Table wp85s_inbound_tracked_links: Total expected rows (approximate): 112
+0220.609 (0) Table wp85s_inbound_tracked_links: Total rows added: 122 in 0.02 seconds
+0220.625 (0) Table wp85s_inbound_tracked_links: finishing file (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_inbound_tracked_links.table.gz - 2.6 KB)
+0220.641 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_options.table.gz (1/15): adding to final database dump
+0220.672 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_users.table.gz (2/15): adding to final database dump
+0220.672 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_usermeta.table.gz (3/15): adding to final database dump
+0220.688 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_commentmeta.table.gz (4/15): adding to final database dump
+0220.688 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_comments.table.gz (5/15): adding to final database dump
+0220.688 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_links.table.gz (6/15): adding to final database dump
+0220.703 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_postmeta.table.gz (7/15): adding to final database dump
+0220.703 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_posts.table.gz (8/15): adding to final database dump
+0220.734 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_term_relationships.table.gz (9/15): adding to final database dump
+0220.750 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_term_taxonomy.table.gz (10/15): adding to final database dump
+0220.750 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_termmeta.table.gz (11/15): adding to final database dump
+0220.766 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_terms.table.gz (12/15): adding to final database dump
+0220.781 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_inbound_events.table.gz (13/15): adding to final database dump
+0220.781 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db-table-wp85s_inbound_tracked_links.table.gz (14/15): adding to final database dump
+0220.813 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz: finished writing out complete database file (72 KB)
+0220.859 (0) Total database tables backed up: 14 (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz, size: 102413, checksum (SHA1): 30a231bea6c8614705dc618e25ff53b381602a5a)
+0220.875 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0220.875 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0220.891 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0220.891 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-others.zip: others: This file has not yet been successfully uploaded: will queue
+0220.906 (0) backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz: db: This file has not yet been successfully uploaded: will queue
+0220.906 (0) Saving backup history. Total backup size: 51.6 MB
+0220.922 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0220.938 (0) Cloud backup selection (1/1): dropbox (last)
+0220.953 (0) Beginning dispatch of backup to remote (dropbox)
+0220.984 (0) Dropbox: begin cloud upload
+0221.047 (0) Dropbox: access gained
+0222.031 (0) Dropbox quota usage: normal=2670.4 MB, shared=1891.8 MB, total=8064 MB, available=3501.9 MB
+0222.047 (0) Dropbox: Attempt to upload: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip to: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip
+0226.875 (0) Dropbox chunked upload: 3 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 1048576)
+0231.953 (0) Dropbox chunked upload: 6 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 2097152)
+0238.188 (0) Dropbox chunked upload: 9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 3145728)
+0244.250 (0) Dropbox chunked upload: 12 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 4194304)
+0250.047 (0) Dropbox chunked upload: 14.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 5242880)
+0254.953 (0) The scheduled resumption is within 45 seconds - will reschedule
+0254.953 (0) Rescheduling resumption 1: moving to 345 seconds from now (1460744107)
+0254.969 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0254.984 (0) Dropbox chunked upload: 17.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 6291456)
+0259.844 (0) Dropbox chunked upload: 20.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 7340032)
+0266.438 (0) Dropbox chunked upload: 23.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 8388608)
+0270.875 (0) Dropbox chunked upload: 26.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 9437184)
+0275.609 (0) Dropbox chunked upload: 29.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 10485760)
+0280.594 (0) Dropbox chunked upload: 32.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 11534336)
+0285.922 (0) Dropbox chunked upload: 35.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 12582912)
+0290.500 (0) Dropbox chunked upload: 38.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 13631488)
+0295.594 (0) Dropbox chunked upload: 41.9 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 14680064)
+0300.703 (0) Dropbox chunked upload: 44.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 15728640)
+0306.313 (0) Dropbox chunked upload: 47.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 16777216)
+0310.844 (0) Dropbox chunked upload: 50.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 17825792)
+0316.000 (0) The time we have been running (316) is approaching the resumption interval (345) - increasing resumption interval to 346
+0316.000 (0) Dropbox chunked upload: 53.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 18874368)
+0320.906 (0) The time we have been running (320.9) is approaching the resumption interval (346) - increasing resumption interval to 351
+0320.906 (0) Dropbox chunked upload: 56.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 19922944)
+0326.344 (0) The time we have been running (326.3) is approaching the resumption interval (351) - increasing resumption interval to 357
+0326.344 (0) Dropbox chunked upload: 59.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 20971520)
+0331.016 (0) The time we have been running (330.9) is approaching the resumption interval (357) - increasing resumption interval to 361
+0331.047 (0) Dropbox chunked upload: 62.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 22020096)
+0336.609 (0) The time we have been running (336.5) is approaching the resumption interval (361) - increasing resumption interval to 367
+0336.625 (0) Dropbox chunked upload: 65.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 23068672)
+0342.219 (0) The time we have been running (342.1) is approaching the resumption interval (367) - increasing resumption interval to 373
+0342.250 (0) Dropbox chunked upload: 68.8 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 24117248)
+0347.922 (0) The time we have been running (347.8) is approaching the resumption interval (373) - increasing resumption interval to 378
+0347.969 (0) Dropbox chunked upload: 71.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 25165824)
+0353.156 (0) The time we have been running (353) is approaching the resumption interval (378) - increasing resumption interval to 384
+0353.219 (0) Dropbox chunked upload: 74.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 26214400)
+0359.109 (0) The time we have been running (359) is approaching the resumption interval (384) - increasing resumption interval to 390
+0359.125 (0) Dropbox chunked upload: 77.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 27262976)
+0365.172 (0) The time we have been running (365) is approaching the resumption interval (390) - increasing resumption interval to 395
+0365.359 (0) Dropbox chunked upload: 80.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 28311552)
+0371.781 (0) The time we have been running (371.7) is approaching the resumption interval (395) - increasing resumption interval to 402
+0371.844 (0) Dropbox chunked upload: 83.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 29360128)
+0376.750 (0) The time we have been running (376.6) is approaching the resumption interval (402) - increasing resumption interval to 407
+0376.906 (0) Dropbox chunked upload: 86.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 30408704)
+0382.672 (0) The time we have been running (382.6) is approaching the resumption interval (407) - increasing resumption interval to 413
+0382.719 (0) Dropbox chunked upload: 89.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 31457280)
+0388.672 (0) The time we have been running (388.6) is approaching the resumption interval (413) - increasing resumption interval to 419
+0388.703 (0) Dropbox chunked upload: 92.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 32505856)
+0395.047 (0) The time we have been running (395) is approaching the resumption interval (419) - increasing resumption interval to 426
+0395.063 (0) Dropbox chunked upload: 95.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 33554432)
+0399.578 (0) The time we have been running (399.5) is approaching the resumption interval (426) - increasing resumption interval to 430
+0399.594 (0) Dropbox chunked upload: 98.7 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 34603008)
+0403.375 (0) The time we have been running (403.3) is approaching the resumption interval (430) - increasing resumption interval to 434
+0403.406 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEd5yMaiD0EvdyQ, 35075229)
+0405.516 (0) Recording as successfully uploaded: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip (fc85b9778c1f838203747e9a54b0e06b)
+0405.547 (0) Deleting local file: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip: OK
+0405.547 (0) Dropbox: File upload success (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-plugins.zip): 34253 KB in 183s (186 KB/s)
+0406.563 (0) Dropbox quota usage: normal=2703.8 MB, shared=1891.8 MB, total=8064 MB, available=3468.4 MB
+0406.594 (0) Dropbox: Attempt to upload: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip to: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip
+0412.078 (0) The time we have been running (412) is approaching the resumption interval (434) - increasing resumption interval to 443
+0412.094 (0) Dropbox chunked upload: 14.6 % uploaded (AAAAAAAAEd-YT21i6iC3yg, 1048576)
+0417.031 (0) The time we have been running (417) is approaching the resumption interval (443) - increasing resumption interval to 447
+0417.063 (0) Dropbox chunked upload: 29.1 % uploaded (AAAAAAAAEd-YT21i6iC3yg, 2097152)
+0423.313 (0) The time we have been running (423.2) is approaching the resumption interval (447) - increasing resumption interval to 454
+0423.359 (0) Dropbox chunked upload: 43.7 % uploaded (AAAAAAAAEd-YT21i6iC3yg, 3145728)
+0429.031 (0) The time we have been running (428.9) is approaching the resumption interval (454) - increasing resumption interval to 459
+0429.031 (0) Dropbox chunked upload: 58.2 % uploaded (AAAAAAAAEd-YT21i6iC3yg, 4194304)
+0434.672 (0) The time we have been running (434.6) is approaching the resumption interval (459) - increasing resumption interval to 465
+0434.719 (0) Dropbox chunked upload: 72.8 % uploaded (AAAAAAAAEd-YT21i6iC3yg, 5242880)
+0439.891 (0) The time we have been running (439.8) is approaching the resumption interval (465) - increasing resumption interval to 470
+0439.906 (0) Dropbox chunked upload: 87.3 % uploaded (AAAAAAAAEd-YT21i6iC3yg, 6291456)
+0444.656 (0) The time we have been running (444.6) is approaching the resumption interval (470) - increasing resumption interval to 475
+0444.703 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEd-YT21i6iC3yg, 7204056)
+0447.094 (0) Recording as successfully uploaded: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip (af2c3747c42f5a49da0ead094ab8b6a2)
+0447.125 (0) Deleting local file: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip: OK
+0447.172 (0) Dropbox: File upload success (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-themes.zip): 7035 KB in 40s (173 KB/s)
+0448.938 (0) Dropbox quota usage: normal=2710.7 MB, shared=1891.8 MB, total=8064 MB, available=3461.5 MB
+0448.953 (0) Dropbox: Attempt to upload: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-uploads.zip to: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-uploads.zip
+0453.953 (0) The time we have been running (453.9) is approaching the resumption interval (475) - increasing resumption interval to 484
+0453.969 (0) Dropbox chunked upload: 9.2 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 1048576)
+0459.203 (0) The time we have been running (459.1) is approaching the resumption interval (484) - increasing resumption interval to 490
+0459.234 (0) Dropbox chunked upload: 18.5 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 2097152)
+0464.391 (0) The time we have been running (464.4) is approaching the resumption interval (490) - increasing resumption interval to 495
+0464.422 (0) Dropbox chunked upload: 27.7 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 3145728)
+0470.250 (0) The time we have been running (470.2) is approaching the resumption interval (495) - increasing resumption interval to 501
+0470.266 (0) Dropbox chunked upload: 37 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 4194304)
+0474.906 (0) The time we have been running (474.9) is approaching the resumption interval (501) - increasing resumption interval to 505
+0474.922 (0) Dropbox chunked upload: 46.2 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 5242880)
+0479.891 (0) The time we have been running (479.8) is approaching the resumption interval (505) - increasing resumption interval to 510
+0479.922 (0) Dropbox chunked upload: 55.5 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 6291456)
+0485.188 (0) The time we have been running (485.1) is approaching the resumption interval (510) - increasing resumption interval to 516
+0485.188 (0) Dropbox chunked upload: 64.7 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 7340032)
+0490.969 (0) The time we have been running (490.9) is approaching the resumption interval (516) - increasing resumption interval to 521
+0491.000 (0) Dropbox chunked upload: 73.9 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 8388608)
+0495.703 (0) The time we have been running (495.6) is approaching the resumption interval (521) - increasing resumption interval to 526
+0495.703 (0) Dropbox chunked upload: 83.2 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 9437184)
+0500.594 (0) The time we have been running (500.5) is approaching the resumption interval (526) - increasing resumption interval to 531
+0500.609 (0) Dropbox chunked upload: 92.4 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 10485760)
+0505.016 (0) The time we have been running (505) is approaching the resumption interval (531) - increasing resumption interval to 535
+0505.031 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEeAo2-Y3FUXt5g, 11344783)
+0507.297 (0) Recording as successfully uploaded: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-uploads.zip (96dcf3ecc292d5ba45e9e6153643058e)
+0507.344 (0) Deleting local file: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-uploads.zip: OK
+0507.359 (0) Dropbox: File upload success (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-uploads.zip): 11078 KB in 58s (189 KB/s)
+0508.375 (0) Dropbox quota usage: normal=2721.5 MB, shared=1891.8 MB, total=8064 MB, available=3450.7 MB
+0508.375 (0) Dropbox: Attempt to upload: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-others.zip to: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-others.zip
+0511.266 (0) The time we have been running (511.2) is approaching the resumption interval (535) - increasing resumption interval to 542
+0511.281 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEeF83htlkUXLyg, 429757)
+0512.609 (0) Recording as successfully uploaded: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-others.zip (8752ba4b52895d707169482b109f4531)
+0512.625 (0) Deleting local file: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-others.zip: OK
+0512.656 (0) Dropbox: File upload success (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-others.zip): 419 KB in 4s (98 KB/s)
+0513.672 (0) Dropbox quota usage: normal=2721.9 MB, shared=1891.8 MB, total=8064 MB, available=3450.3 MB
+0513.688 (0) Dropbox: Attempt to upload: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz to: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz
+0515.141 (0) The time we have been running (515.1) is approaching the resumption interval (542) - increasing resumption interval to 546
+0515.141 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEeK_Wx66e4BPKA, 102413)
+0516.516 (0) Recording as successfully uploaded: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz (8f29ba9c8db09002c5f414cf826e9ac0)
+0516.531 (0) Deleting local file: backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz: OK
+0516.547 (0) Dropbox: File upload success (backup_2016-04-15-1305_Blog_Servitalleres_31bca5e97c63-db.gz): 100 KB in 2s (34 KB/s)
+0516.547 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0516.563 (0) Number of backup sets in history: 3; groups (db): 1
+0516.563 (0) Examining (for databases) backup set with group_id=0, nonce=31bca5e97c63, datestamp=1460743507 (Apr 15 2016 18:05:07)
+0516.563 (0) This backup set is the backup set just made, so will not be deleted.
+0516.578 (0) Examining (for databases) backup set with group_id=0, nonce=c8a4d9670441, datestamp=1457991760 (Mar 14 2016 21:42:40)
+0516.594 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0516.594 (0) Examining (for databases) backup set with group_id=0, nonce=948274134493, datestamp=1456782128 (Feb 29 2016 21:42:08)
+0516.594 (0) 1456782128: db: this set includes a database (backup_2016-02-29-1642_Blog_Servitalleres_948274134493-db.gz); db count is now 2
+0516.625 (0) 1456782128: db: over retain limit (2); will delete this database
+0516.625 (0) Delete file: backup_2016-02-29-1642_Blog_Servitalleres_948274134493-db.gz, service=dropbox
+0516.625 (0) Dropbox: request deletion: backup_2016-02-29-1642_Blog_Servitalleres_948274134493-db.gz
+0517.563 (0) Dropbox error: Path '/backup_2016-02-29-1642_blog_servitalleres_948274134493-db.gz' not found (line: 171, file: C:\xampp\htdocs\blog\wp-content\plugins\updraftplus\includes\Dropbox\OAuth\Consumer\Curl.php)
+0517.578 (0) The time we have been running (517.5) is approaching the resumption interval (546) - increasing resumption interval to 548
+0517.594 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0517.594 (0) Number of backup sets in history: 3; groups (files): 1
+0517.594 (0) Examining (for files) backup set with nonce=31bca5e97c63, datestamp=1460743507 (Apr 15 2016 18:05:07)
+0517.609 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0517.609 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0517.609 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0517.609 (0) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+0517.609 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0517.625 (0) Examining (for files) backup set with nonce=c8a4d9670441, datestamp=1457991760 (Mar 14 2016 21:42:40)
+0517.625 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0517.625 (0) Examining (for files) backup set with nonce=948274134493, datestamp=1456782128 (Feb 29 2016 21:42:08)
+0517.641 (0) plugins: over retain limit (2); will delete this file entity
+0517.641 (0) themes: over retain limit (2); will delete this file entity
+0517.656 (0) uploads: over retain limit (2); will delete this file entity
+0517.656 (0) others: over retain limit (2); will delete this file entity
+0517.656 (0) Delete file: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-plugins.zip, service=dropbox
+0517.672 (0) Delete file: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-themes.zip, service=dropbox
+0517.672 (0) Delete file: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-uploads.zip, service=dropbox
+0517.688 (0) Delete file: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-others.zip, service=dropbox
+0517.703 (0) Dropbox: request deletion: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-plugins.zip
+0518.922 (0) Dropbox: delete succeeded
+0518.922 (0) Dropbox: request deletion: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-themes.zip
+0520.359 (0) Dropbox: delete succeeded
+0520.359 (0) Dropbox: request deletion: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-uploads.zip
+0521.969 (0) Dropbox: delete succeeded
+0521.969 (0) Dropbox: request deletion: backup_2016-02-29-1642_Blog_Servitalleres_35597654f350-others.zip
+0523.406 (0) Dropbox: delete succeeded
+0523.438 (0) The time we have been running (523.4) is approaching the resumption interval (548) - increasing resumption interval to 554
+0523.453 (0) This backup set is now empty; will remove from history
+0523.469 (0) Corresponding log file (log.948274134493.txt) not found - must have already been deleted
+0523.469 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0523.500 (0) Resume backup (31bca5e97c63, 0): finish run
+0523.516 (0) Decremented the semaphore (fd) by 1
+0523.531 (0) Semaphore (fd) unlocked
+0523.531 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0523.547 (0) The backup apparently succeeded and is now complete
+0523.563 (0) Fetching RSS news feed
+0524.531 (0) Fetched RSS news feed; result is a: SimplePie
+0524.547 (0) Sending email ('Ficheros y base de datos (Respaldo completo)') report (attachments: 0, size: 0 KB) to: conta...
+0536.938 (0) El respaldo parece haber tenido éxito y ahora está completado
