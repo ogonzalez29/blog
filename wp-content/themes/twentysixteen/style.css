@@ -1552,7 +1552,6 @@ blockquote:after,
 	-webkit-flex-wrap: wrap;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
-	margin: 0.025em 7.6923%;
 }
 
 .site-branding {
@@ -2732,7 +2731,6 @@ p > video {
 
 	.site-header {
 		padding: 0.025em 7.6923%;
-		margin-right: 25%;
 	}
 
 	.site-branding {
@@ -2768,7 +2766,8 @@ p > video {
 
 	.header-image {
 		margin-top: 1.3125em;
-		margin-bottom: 0px;
+		margin-bottom: 0.5em;
+		max-width: 60%;
 	}
 
 	.pagination {
@@ -2927,16 +2926,17 @@ p > video {
 
 @media screen and (min-width: 56.875em) {
 	.site-header {
-		/*padding-right: 4.5455%;*/
+		padding-right: 4.5455%;
 		padding-left: 4.5455%;
-		margin-right: 35%;
+		margin-right: 0px;
 	}
 
 	.site-header-main {
 		-webkit-align-items: flex-start;
 		-ms-flex-align: start;
 		align-items: flex-start;
-		margin: 0.025em 4.5455%;
+		margin-left: 0px;
+		margin-right: 0px;
 		border-top: 2px solid;
 		border-bottom: 2px solid;
 	}
@@ -3365,13 +3365,14 @@ p > video {
 
 	.site-header {
 		padding: 0.025em 4.5455%;
-		margin-right: 50%
+		margin-right: 0px;
 	}
 
 	.site-branding,
 	.header-image {
 		margin-top: 1.75em;
-		margin-bottom: 0px;
+		margin-bottom: 0.5em;
+		max-width: 50%;
 	}
 
 	.site-header-menu, {

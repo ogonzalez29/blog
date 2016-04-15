@@ -47,8 +47,7 @@
 					</a>
 				</div><!-- .header-image -->
 			<?php endif; // End header image check. ?>
-		</header><!-- .site-header -->
-		<div class="site-header-main">
+			<div class="site-header-main">
 				<!--<div class="site-branding">
 					<?php if ( is_front_page() && is_home() ) : ?>
 						<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
@@ -93,4 +92,6 @@
 					</div><!-- .site-header-menu -->
 				<?php endif; ?>
 			</div><!-- .site-header-main -->
+		</header><!-- .site-header -->
+		
 		<div id="content" class="site-content">
