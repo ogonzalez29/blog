@@ -3077,7 +3077,7 @@ p > video {
 	.content-area {
 		float: left;
 		margin-right: -100%;
-		width: 70%;
+		width: 69%;
 	}
 
 	.entry-header,
@@ -3094,13 +3094,14 @@ p > video {
 	.content-bottom-widgets {
 		margin-right: 0;
 		margin-left: 0;
+		width: 85%;
 	}
 
 	.sidebar {
 		float: left;
-		margin-left: 75%;
+		margin-left: 69%;
 		padding: 0;
-		width: 25%;
+		width: 31%;
 	}
 
 	.widget {
@@ -3504,8 +3505,8 @@ p > video {
 	}
 
 	body:not(.search-results) article:not(.type-page) .entry-content {
-		float: right;
-		width: 71.42857144%;
+	
+		width: 85.42857144%;
 	}
 
 	body:not(.search-results) article:not(.type-page) .entry-content > blockquote.alignleft.below-entry-meta {
