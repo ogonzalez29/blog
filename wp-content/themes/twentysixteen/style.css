@@ -1948,6 +1948,7 @@ body:not(.search-results) .entry-summary > :last-child,
 	font-size: 0.8125rem;
 	line-height: 1.6153846154;
 	margin-top: 2.1538461538em;
+	margin-bottom: 1.5em;
 }
 
 .entry-footer:empty {
@@ -2809,6 +2810,7 @@ p > video {
 	.page-content,
 	.content-bottom-widgets {
 		margin-right: 23.0769%;
+		margin-bottom: 1.5em;
 	}
 
 	.entry-title {
@@ -3095,6 +3097,7 @@ p > video {
 		margin-right: 0;
 		margin-left: 0;
 		width: 85%;
+		margin-bottom: 1.5em;
 	}
 
 	.sidebar {
@@ -3533,9 +3536,9 @@ p > video {
 	}
 
 	body:not(.search-results) article:not(.type-page) .entry-footer {
-		float: left;
 		margin-top: 0.1538461538em;
-		width: 21.42857143%;
+		margin: 1.5em;
+		margin-left: 0px;
 	}
 
 	body:not(.search-results) article:not(.type-page) .entry-footer > span:not(:last-child):after {
