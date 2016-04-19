@@ -3536,14 +3536,15 @@ p > video {
 	}
 
 	body:not(.search-results) article:not(.type-page) .entry-footer {
-		margin-top: 0.1538461538em;
-		margin: 1.5em;
+		margin-top: 0px;
+		margin-bottom: 1.5em;
 		margin-left: 0px;
+		display: -webkit-inline-box;
 	}
 
-	body:not(.search-results) article:not(.type-page) .entry-footer > span:not(:last-child):after {
+	/*body:not(.search-results) article:not(.type-page) .entry-footer > span:not(:last-child):after{
 		display: none;
-	}
+	}*/
 
 	.single .byline,
 	.full-size-link,
