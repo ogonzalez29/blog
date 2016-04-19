@@ -2425,6 +2425,7 @@ body.search-no-results .page-header {
 .comment-content a img,
 .textwidget a img {
 	display: block;
+	box-shadow: 0 1px 0 0 #FFFFFF;
 }
 
 /* Make sure embeds and iframes fit their containers. */

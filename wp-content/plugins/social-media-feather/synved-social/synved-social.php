@@ -1204,7 +1204,7 @@ function synved_social_button_list_markup($context, $vars = null, $buttons = nul
 						'class' => 'synved-share-image synved-social-image synved-social-image-' . $context,
 						'width' => $size,
 						'height' => $size,
-						'style' => 'display: inline; width:' . $size . 'px;' . 'height:' . $size . 'px; margin: 0; padding: 0; border: none; box-shadow: none;',
+						'style' => 'display: inline; width:' . $size . 'px;' . 'height:' . $size . 'px; margin: 0; padding: 0; border: none;',
 						'src' => $image_uri,
 					)
 				)
