@@ -47,8 +47,8 @@
 					 */
 					do_action( 'twentysixteen_credits' );
 				?>
-				<span class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></span>
-				<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentysixteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentysixteen' ), 'WordPress' ); ?></a>
+				<div class="site-title"><?php printf( __( 'Carrera 22 No. 76-57 | Telefax: 2117943 | Teléfonos: 2119290 - 2119291' )); ?></div>
+				<div class="copyright">&copy; <?php printf( '%1$s %2$s', the_date( 'Y', '', '', false ), '') ?><a href="<?php echo esc_url( 'http://servitalleres.com' ); ?>" target="_blank">Servitalleres</a></div>
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
 	</div><!-- .site-inner -->
