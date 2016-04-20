@@ -2376,7 +2376,7 @@ body.search-no-results .page-header {
 	font-size: 13px;
 	font-size: 0.8125rem;
 	line-height: 1.6153846154;
-	height: 21px;
+	height: 45px;
 }
 
 .site-info a {
@@ -2406,8 +2406,9 @@ body.search-no-results .page-header {
 	font-family: inherit;
 	font-size: inherit;
 	font-weight: 400;
-	float: right;
+	float: left;
 	line-height: 1.25;
+	padding-top: 14px;
 }
 
 /**
@@ -2928,6 +2929,11 @@ p > video {
 	body:not(.custom-background-image).admin-bar:before {
 		top: 32px;
 	}
+	.copyright {
+			float: right;
+			padding-top: 0px;
+		}
+
 }
 
 
@@ -3338,6 +3344,7 @@ p > video {
 		-ms-flex-order: 1;
 		order: 1;
 		width: 100%;
+		height: 21px;
 	}
 
 	.no-sidebar .content-area {
