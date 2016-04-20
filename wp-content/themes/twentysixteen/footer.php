@@ -13,7 +13,8 @@
 		</div><!-- .site-content -->
 
 		<footer id="colophon" class="site-footer" role="contentinfo">
-			<?php if ( has_nav_menu( 'primary' ) ) : ?>
+			<!--
+			<<?php if ( has_nav_menu( 'primary' ) ) : ?>
 				<nav class="main-navigation" role="navigation" aria-label="<?php esc_attr_e( 'Footer Primary Menu', 'twentysixteen' ); ?>">
 					<?php
 						wp_nav_menu( array(
@@ -21,8 +22,8 @@
 							'menu_class'     => 'primary-menu',
 						 ) );
 					?>
-				</nav><!-- .main-navigation -->
-			<?php endif; ?>
+				</nav>
+			<?php endif; ?>--><!-- .main-navigation -->
 
 			<?php if ( has_nav_menu( 'social' ) ) : ?>
 				<nav class="social-navigation" role="navigation" aria-label="<?php esc_attr_e( 'Footer Social Links Menu', 'twentysixteen' ); ?>">
@@ -48,7 +49,7 @@
 					do_action( 'twentysixteen_credits' );
 				?>
 				<div class="site-title"><?php printf( __( 'Carrera 22 No. 76-57 | Telefax: 2117943 | Teléfonos: 2119290 - 2119291' )); ?></div>
-				<div class="copyright">&copy; <?php printf( '%1$s %2$s', the_date( 'Y', '', '', false ), '') ?><a href="<?php echo esc_url( 'http://servitalleres.com' ); ?>" target="_blank">Servitalleres</a></div>
+				<div class="copyright">Copyright &copy; <?php echo date( 'Y' ); ?><a href="<?php echo esc_url( 'http://servitalleres.com' ); ?>" target="_blank"> Servitalleres</a></div>
 			</div><!-- .site-info -->
 		</footer><!-- .site-footer -->
 	</div><!-- .site-inner -->

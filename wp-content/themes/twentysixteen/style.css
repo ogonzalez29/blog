@@ -2403,7 +2403,11 @@ body.search-no-results .page-header {
 }
 
 .copyright {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: 400;
 	float: right;
+	line-height: 1.25;
 }
 
 /**
