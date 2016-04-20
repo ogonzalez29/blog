@@ -242,3 +242,51 @@
 0431.149 (0) Dropbox chunked upload: 52 % uploaded (AAAAAAAAEfEzteXCs-cQIw, 5242880)
 0442.381 (0) Dropbox chunked upload: 62.4 % uploaded (AAAAAAAAEfEzteXCs-cQIw, 6291456)
 0452.785 (0) Dropbox chunked upload: 72.8 % uploaded (AAAAAAAAEfEzteXCs-cQIw, 7340032)
+0463.492 (0) Dropbox chunked upload: 83.2 % uploaded (AAAAAAAAEfEzteXCs-cQIw, 8388608)
+0473.310 (0) Dropbox chunked upload: 93.6 % uploaded (AAAAAAAAEfEzteXCs-cQIw, 9437184)
+0480.631 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEfEzteXCs-cQIw, 10081908)
+0483.128 (0) Recording as successfully uploaded: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-plugins2.zip (8926b25228905127ad028fe983884d35)
+0483.160 (0) Deleting local file: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-plugins2.zip: skipped: user has unchecked updraft_delete_local option
+0483.164 (0) Dropbox: File upload success (backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-plugins2.zip): 9845 KB in 105s (93 KB/s)
+0484.325 (0) Dropbox quota usage: normal=2734.3 MB, shared=1891.8 MB, total=8064 MB, available=3437.9 MB
+0484.348 (0) Dropbox: Attempt to upload: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-themes.zip to: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-themes.zip
+0494.497 (0) Dropbox chunked upload: 14.6 % uploaded (AAAAAAAAEfJfzJahEoEqyQ, 1048576)
+0507.137 (0) Dropbox chunked upload: 29.1 % uploaded (AAAAAAAAEfJfzJahEoEqyQ, 2097152)
+0517.297 (0) Dropbox chunked upload: 43.7 % uploaded (AAAAAAAAEfJfzJahEoEqyQ, 3145728)
+0527.848 (0) Dropbox chunked upload: 58.2 % uploaded (AAAAAAAAEfJfzJahEoEqyQ, 4194304)
+0537.884 (0) Dropbox chunked upload: 72.8 % uploaded (AAAAAAAAEfJfzJahEoEqyQ, 5242880)
+0547.739 (0) The scheduled resumption is within 45 seconds - will reschedule
+0547.754 (0) Rescheduling resumption 1: moving to 635 seconds from now (1461158887)
+0547.771 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 590 + 45 = 635
+0547.776 (0) Dropbox chunked upload: 87.3 % uploaded (AAAAAAAAEfJfzJahEoEqyQ, 6291456)
+0556.772 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEfJfzJahEoEqyQ, 7204161)
+0560.309 (0) Recording as successfully uploaded: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-themes.zip (53148a4bd83085cc91f180b7002a5a93)
+0560.321 (0) Deleting local file: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-themes.zip: skipped: user has unchecked updraft_delete_local option
+0560.326 (0) Dropbox: File upload success (backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-themes.zip): 7035 KB in 75s (92 KB/s)
+0562.020 (0) Dropbox quota usage: normal=2741.2 MB, shared=1891.8 MB, total=8064 MB, available=3431 MB
+0562.033 (0) Dropbox: Attempt to upload: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-uploads.zip to: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-uploads.zip
+0572.042 (0) Dropbox chunked upload: 8.4 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 1048576)
+0583.201 (0) Dropbox chunked upload: 16.8 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 2097152)
+0592.835 (0) Dropbox chunked upload: 25.1 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 3145728)
+0603.292 (0) Dropbox chunked upload: 33.5 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 4194304)
+0613.306 (0) The time we have been running (613.2) is approaching the resumption interval (635) - increasing resumption interval to 644
+0613.327 (0) Dropbox chunked upload: 41.9 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 5242880)
+0622.741 (0) The time we have been running (622.6) is approaching the resumption interval (644) - increasing resumption interval to 653
+0622.760 (0) Dropbox chunked upload: 50.3 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 6291456)
+0633.452 (0) The time we have been running (633.4) is approaching the resumption interval (653) - increasing resumption interval to 664
+0633.462 (0) Dropbox chunked upload: 58.6 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 7340032)
+0644.442 (0) The time we have been running (644.4) is approaching the resumption interval (664) - increasing resumption interval to 675
+0644.451 (0) Dropbox chunked upload: 67 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 8388608)
+0654.053 (0) The time we have been running (654) is approaching the resumption interval (675) - increasing resumption interval to 685
+0654.063 (0) Dropbox chunked upload: 75.4 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 9437184)
+0664.241 (0) The time we have been running (664.2) is approaching the resumption interval (685) - increasing resumption interval to 695
+0664.252 (0) Dropbox chunked upload: 83.8 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 10485760)
+0674.102 (0) The time we have been running (674.1) is approaching the resumption interval (695) - increasing resumption interval to 705
+0674.112 (0) Dropbox chunked upload: 92.1 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 11534336)
+0683.366 (0) The time we have been running (683.3) is approaching the resumption interval (705) - increasing resumption interval to 714
+0683.383 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAEfO5b2PULr4tyg, 12519807)
+0685.604 (0) Recording as successfully uploaded: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-uploads.zip (2cefe44159042f8a6145e789833a2110)
+0685.693 (0) Deleting local file: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-uploads.zip: skipped: user has unchecked updraft_delete_local option
+0685.700 (0) Dropbox: File upload success (backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-uploads.zip): 12226 KB in 123s (98 KB/s)
+0686.866 (0) Dropbox quota usage: normal=2753.1 MB, shared=1891.8 MB, total=8064 MB, available=3419.1 MB
+0686.876 (0) Dropbox: Attempt to upload: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-others.zip to: backup_2016-04-20-0808_Servitalleres_Blog_60ca005a7eaa-others.zip
