@@ -3569,7 +3569,7 @@ p > video {
 	body:not(.search-results) article:not(.sticky) .posted-on,
 	body:not(.search-results) article:not(.type-page) .comments-link,
 	body:not(.search-results) article:not(.type-page) .entry-footer .edit-link {
-		display: block;
+		/*display: block;*/
 		margin-bottom: 0.5384615385em;
 	}
 

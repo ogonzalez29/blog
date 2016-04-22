@@ -94,7 +94,7 @@ if ( ! function_exists( 'twentysixteen_entry_taxonomies' ) ) :
 function twentysixteen_entry_taxonomies() {
 	$categories_list = get_the_category_list( _x( ', ', 'Used between list items, there is a space after the comma.', 'twentysixteen' ) );
 	if ( $categories_list && twentysixteen_categorized_blog() ) {
-		printf( '<span class="cat-links"><span class="screen-reader-text"> %1$s </span>%2$s /</span>',
+		printf( '<span class="cat-links"><span class="screen-reader-text">%1$s </span>%2$s /</span>',
 			_x( 'en', 'Used before category names.', 'twentysixteen' ),
 			$categories_list
 		);
