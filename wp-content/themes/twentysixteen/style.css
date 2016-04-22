@@ -696,12 +696,10 @@ input[type="search"].search-field {
 
 .search-submit {
 	border-radius: 0 2px 2px 0;
-	bottom: 0;
 	overflow: hidden;
 	padding: 0;
 	position: absolute;
 	right: 0;
-	top: 0;
 	width: 42px;
 }
 
