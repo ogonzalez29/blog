@@ -1264,7 +1264,6 @@ a:active {
 	clip: rect(1px, 1px, 1px, 1px);
 	height: 1px;
 	overflow: hidden;
-	position: absolute !important;
 	width: 1px;
 	/* many screen reader and browser combinations announce broken words as they would appear visually */
 	word-wrap: normal !important;
@@ -1965,10 +1964,10 @@ body:not(.search-results) .entry-summary > :last-child,
 }
 
 .entry-footer > span:not(:last-child):after {
-	content: "\002f";
+	content: "";
 	display: inline-block;
 	opacity: 0.7;
-	padding: 0 0.538461538em;
+	padding: 0 0.15em;
 }
 
 .entry-footer .avatar {

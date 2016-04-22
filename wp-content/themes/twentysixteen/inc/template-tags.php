@@ -47,7 +47,7 @@ function twentysixteen_entry_meta() {
 
 	if ( ! is_singular() && ! post_password_required() && ( comments_open() || get_comments_number() ) ) {
 		echo '<span class="comments-link">';
-		comments_popup_link( sprintf( __( 'Leave a comment<span class="screen-reader-text"> on %s</span>', 'twentysixteen' ), get_the_title() ) );
+		comments_popup_link( sprintf( __( 'Dejar un comentario<span class="screen-reader-text"></span>', 'twentysixteen' ), get_the_title() ) );
 		echo '</span>';
 	}
 }
@@ -94,8 +94,8 @@ if ( ! function_exists( 'twentysixteen_entry_taxonomies' ) ) :
 function twentysixteen_entry_taxonomies() {
 	$categories_list = get_the_category_list( _x( ', ', 'Used between list items, there is a space after the comma.', 'twentysixteen' ) );
 	if ( $categories_list && twentysixteen_categorized_blog() ) {
-		printf( '<span class="cat-links"><span class="screen-reader-text">%1$s </span>%2$s</span>',
-			_x( 'Categories', 'Used before category names.', 'twentysixteen' ),
+		printf( '<span class="cat-links"><span class="screen-reader-text"> %1$s </span>%2$s /</span>',
+			_x( 'en', 'Used before category names.', 'twentysixteen' ),
 			$categories_list
 		);
 	}
