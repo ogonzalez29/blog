@@ -7081,7 +7081,7 @@ msgstr "Editar esto"
 #: wp-includes/comment-template.php:2255
 #: wp-includes/theme-compat/comments.php:75
 msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
-msgstr "Usted debe <a href=\"%s\">iniciar sesión</a> para publicar un comentario."
+msgstr "Debes <a href=\"%s\">iniciar sesión</a> para publicar un comentario."
 
 #: wp-includes/theme-compat/comments.php:90
 msgid "Mail (will not be published)"
@@ -7181,11 +7181,11 @@ msgstr "Inicie sesión para responder"
 
 #: wp-includes/comment-template.php:1504
 msgid "Leave a Comment"
-msgstr "Agregue un comentario"
+msgstr "Agrega un comentario"
 
 #: wp-includes/comment-template.php:1505
 msgid "Log in to leave a Comment"
-msgstr "Inicie sesión para que agregue un comentario"
+msgstr "Inicia sesión para agregar un comentario"
 
 #: wp-includes/comment-template.php:1572
 msgid "Click here to cancel reply."
@@ -7194,7 +7194,7 @@ msgstr "Cancelar respuesta."
 #: wp-includes/comment-template.php:1660 wp-includes/comment-template.php:2264
 #: wp-includes/theme-compat/comments.php:68
 msgid "Leave a Reply"
-msgstr "Agregue un comentario"
+msgstr "Agrega un comentario"
 
 #: wp-includes/comment-template.php:1661 wp-includes/comment-template.php:2265
 #: wp-includes/theme-compat/comments.php:68
