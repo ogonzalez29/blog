@@ -420,7 +420,7 @@ acronym {
 
 mark,
 ins {
-	background: #007acc;
+	background: #253be5;
 	color: #fff;
 	padding: 0.125em 0.25em;
 	text-decoration: none;
@@ -609,7 +609,7 @@ input[type="reset"]:hover,
 input[type="reset"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-	background: #007acc;
+	background: #253be5;
 }
 
 button:focus,
@@ -646,7 +646,7 @@ input[type="tel"]:focus,
 input[type="number"]:focus,
 textarea:focus {
 	background-color: #fff;
-	border-color: #007acc;
+	border-color: #253be5;
 	color: #1a1a1a;
 	outline: 0;
 }
@@ -713,7 +713,7 @@ input[type="search"].search-field {
  */
 
 a {
-	color: #007acc;
+	color: #253be5;
 	text-decoration: none;
 }
 
@@ -807,7 +807,7 @@ a:active {
 
 .main-navigation a:hover,
 .main-navigation a:focus {
-	color: #007acc;
+	color: #253be5;
 }
 
 .main-navigation .current-menu-item > a,
@@ -864,7 +864,7 @@ a:active {
 .dropdown-toggle:hover,
 .dropdown-toggle:focus {
 	background-color: transparent;
-	color: #007acc;
+	color: #253be5;
 }
 
 .dropdown-toggle:focus {
@@ -918,7 +918,7 @@ a:active {
 
 .social-navigation a:hover:before,
 .social-navigation a:focus:before {
-	color: #007acc;
+	color: #253be5;
 }
 
 .social-navigation a[href*="codepen.io"]:before {
@@ -1070,7 +1070,7 @@ a:active {
 
 .post-navigation a:hover .post-title,
 .post-navigation a:focus .post-title {
-	color: #007acc;
+	color: #253be5;
 }
 
 .post-navigation div + div {
@@ -1184,7 +1184,7 @@ a:active {
 .pagination .prev:focus,
 .pagination .next:hover,
 .pagination .next:focus {
-	background-color: #007acc;
+	background-color: #253be5;
 	color: #fff;
 }
 
@@ -1428,7 +1428,7 @@ blockquote:after,
 }
 
 .widget_calendar tbody a {
-	background-color: #007acc;
+	background-color: #253be5;
 	color: #fff;
 	display: block;
 	font-weight: 700;
@@ -1493,8 +1493,8 @@ blockquote:after,
 
 .tagcloud a:hover,
 .tagcloud a:focus {
-	border-color: #007acc;
-	color: #007acc;
+	border-color: #253be5;
+	color: #253be5;
 	outline: 0;
 }
 
@@ -1570,7 +1570,7 @@ blockquote:after,
 
 .site-branding .site-title a:hover,
 .site-branding .site-title a:focus {
-	color: #007acc;
+	color: #253be5;
 }
 
 .site-description {
@@ -1600,8 +1600,8 @@ blockquote:after,
 .menu-toggle:hover,
 .menu-toggle:focus {
 	background-color: transparent;
-	border-color: #007acc;
-	color: #007acc;
+	border-color: #253be5;
+	color: #253be5;
 }
 
 .menu-toggle.toggled-on,
@@ -1669,7 +1669,7 @@ blockquote:after,
 
 .entry-title a:hover,
 .entry-title a:focus {
-	color: #007acc;
+	color: #253be5;
 }
 
 .post-thumbnail {
@@ -1958,7 +1958,7 @@ body:not(.search-results) .entry-summary > :last-child,
 
 .entry-footer a:hover,
 .entry-footer a:focus {
-	color: #007acc;
+	color: #253be5;
 }
 
 .entry-footer > span:not(:last-child):after {
@@ -2066,7 +2066,7 @@ body.search-no-results .page-header {
 
 .page-links a:hover,
 .page-links a:focus {
-	background-color: #007acc;
+	background-color: #253be5;
 	border-color: transparent;
 	color: #fff;
 }
@@ -2222,7 +2222,7 @@ body.search-no-results .page-header {
 .comment-metadata a:focus,
 .pingback .comment-edit-link:hover,
 .pingback .comment-edit-link:focus {
-	color: #007acc;
+	color: #253be5;
 }
 
 .comment-metadata .edit-link,
@@ -2251,7 +2251,7 @@ body.search-no-results .page-header {
 .comment-reply-link {
 	border: 1px solid #d1d1d1;
 	border-radius: 2px;
-	color: #007acc;
+	color: #253be5;
 	display: inline-block;
 	font-family: Montserrat, "Helvetica Neue", sans-serif;
 	font-size: 13px;
@@ -2264,7 +2264,7 @@ body.search-no-results .page-header {
 .comment-reply-link:hover,
 .comment-reply-link:focus {
 	border-color: currentColor;
-	color: #007acc;
+	color: #253be5;
 	outline: 0;
 }
 
@@ -2321,7 +2321,7 @@ body.search-no-results .page-header {
 }
 
 .required {
-	color: #007acc;
+	color: #253be5;
 	font-family: Merriweather, Georgia, serif;
 }
 
@@ -2382,7 +2382,7 @@ body.search-no-results .page-header {
 
 .site-info a:hover,
 .site-info a:focus {
-	color: #007acc;
+	color: #253be5;
 }
 
 .site-footer .site-title {
@@ -2983,7 +2983,7 @@ p > video {
 
 	.main-navigation li:hover > a,
 	.main-navigation li.focus > a {
-		color: #007acc;
+		color: #253be5;
 	}
 
 	.main-navigation ul ul {
@@ -3890,7 +3890,7 @@ p > video {
 	}
 
 	a {
-		color: #007acc !important; /* Make sure color schemes don't affect to print */
+		color: #253be5 !important; /* Make sure color schemes don't affect to print */
 	}
 
 	.entry-content a,
@@ -3899,7 +3899,7 @@ p > video {
 	.comment-content a,
 	.pingback .comment-body > a {
 		box-shadow: none;
-		border-bottom: 1px solid #007acc !important; /* Make sure color schemes don't affect to print */
+		border-bottom: 1px solid #253be5 !important; /* Make sure color schemes don't affect to print */
 	}
 
 	.site {
