@@ -31,8 +31,8 @@ msgstr "Editar<span class=\"screen-reader-text\"> \"%s\"</span>"
 
 #. translators: %s: Name of current post
 #: inc/template-tags.php:184 template-parts/content.php:28
-msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr "Leer más...»<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgid "Continue reading<span class=\"screen-reader-text\"></span>"
+msgstr "Leer más...»<span class=\"screen-reader-text\"></span>"
 
 #: inc/customizer.php:246
 msgid "Red"
